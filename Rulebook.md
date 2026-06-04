@@ -1,23 +1,23 @@
-This rulebook governs Season 10 of the UK & Ireland Circuit. All players who compete in the UK & Ireland Circuit agree to follow the rules outlined in this document. For any questions please contact the tournament officials and defer to their judgement.
+This rulebook governs the 2026/27 season of the IEC. All players who compete in the IEC agree to follow the rules outlined in this document. For any questions please contact the tournament officials and defer to their judgement.
 
-For contact purposes please join the: [UK & Ireland Circuit Discord](https://ukicircuit.com/league)
+For contact purposes please reach out through rafithrottir@rafithrottir.is
 
 # 1.0 Definitions
 
-- **Endpoint Esports LTD:** An Esports Organisation based in Sheffield, UK and the owners of the UK & Ireland Circuit ****
-- **UKIC:** The UK & Ireland Circuit, a grass-roots tournament and community platform
-- **Masters:** The top Division within the UKIC
-- **Participants:** Teams and players who participate in UKIC
+- **RÍSÍ:** The Icelandic Esports Association, and the owners and organizers of IEC ****
+- **IEC:** The Icelandic Esports Circuit, a series of local tournaments for the Icelandic esports community
+- **Mótaröð Ljósleiðarans:** The official local name for the IEC
+- **Participants:** Teams and players who participate in IEC
 - **Team Core:** A team’s core consists of three (3) players out of the five (5) players at a minimum
-- **Tournament Officials:** Referees and other Officials involved in operating UKIC
-- **UKIC Partners:** Organisations that are involved with and supporting UKIC
+- **Tournament Officials:** Referees and other Officials involved in operating IEC
+- **IEC Partners:** Organisations that are involved with and supporting the IEC (Mótaröð Ljósleiðarans)
 - **Counter-Strike 2 (CS2):** The game title utilised for the competition
-- **LAN Finals:** The final of the competition hosted in the United Kingdom
+- **LAN Finals:** The final of the competition hosted in Iceland
 - **Publisher’s Rights:** The rights held by the game publisher (Valve) in relation to the UKIC event
 - **Communication:** The means of communication used by the Tournament Officials, participants, and partners, such as discord, chat, or voice communication
-- **Prize Money:** The monetary rewards given to the winning teams of UKIC
-- **Match Broadcasting:** The broadcasting of UKIC matches through online platforms such as streaming services
-- **Rights:** The rights held by UKIC in relation to the broadcasting and promotion of UKIC matches
+- **Prize Money:** The monetary rewards given to the winning teams of IEC
+- **Match Broadcasting:** The broadcasting of IEC matches through online platforms such as streaming services
+- **Rights:** The rights held by IEC in relation to the broadcasting and promotion of IEC matches
 - **Valve Corporation (Valve):** The publisher of Counter-Strike 2 (CS2)
 - **Valve Regional Standings (VRS):** The official system for ranking the performance of Rosters published by Valve, provided for the respective regions and applied at the designated Invite Date
 - **Valve Tournament Operating Requirements (TOR):** The official requirements to operate any event in the Counter-Strike 2 (CS2) ecosystem, created and operated by Valve
@@ -38,18 +38,19 @@ Any concerns regarding the tournament integrity, including (but not limited to) 
 
 ## 2.3 Valve Tournament Operating Requirements
 
-UKIC Masters and Challengers is operated in compliance with Valve’s Tournament Operating Requirements, according to regulations set out for Tier 2 events.
+IEC tournaments are operated in compliance with Valve’s Tournament Operating Requirements, according to regulations set out for Tier 2 events.
 
-The tournament format of each Division may be changed according to the needs of TO. The exact format and schedule will be presented to the invited teams by the TO prior to each competition.
+The format of each tournament may be changed according to the needs of TO. The exact format and schedule will be presented to the invited teams by the TO prior to each competition.
 
-Each Event Additional Information will be announced, as per Valve TOR, via [@UKICircuit](https://x.com/UKICircuit) on X.
+Each Event Additional Information will be announced, as per Valve TOR, via [@UKICircuit](https://x.com/UKICircuit) on X. !!!
 
 # 3.0 Tournament Information
 
 ## 3.1 Tournament Information
 
-The format of UKIC Masters is as follows:
+The format of IEC for the 2026/27 season is as follows:
 
+### IEC Challengers Series 1 (Áskorendamót Ljósleiðarans)
 | Event Stage | # Teams | Format | # Winners |
 |---|---|---|---|
 | Open Qualifiers | Open Sign-ups | Single Elimination BO1's<br>Semi Final BO3's for Qualification | 8 Teams advance to next stage |
