@@ -52,24 +52,29 @@ The format of IEC Challengers Series 1 is as follows:
 
 | Event Stage | Teams | Format | Winners |
 |---|---|---|---|
-| Open Qualifiers | Open Sign-ups <br> 16 available spots | Modified Swiss System <br>Rounds 1 and 2 BO1's, Rounds 3, 4 and 5 BO3's | 8 Teams advance to next stage |
-| Knockout Stage | 8 Qualified | Single Elimination BO3 Matches | 2 Teams advance to LAN Finals |
+| Open Qualifiers | Open Sign-ups <br>16 available spots | Modified Swiss System <br>Rounds 1 and 2 BO1's, Rounds 3, 4 and 5 BO3's | 8 Teams advance to next stage |
+| Knockout Stage | 8 Qualified | Single Elimination BO3 Matches | 2 Teams advance to LAN Finals<br> 2 Teams advance to Third Place Decider |
 | Third Place Decider | 2 Qualified | BO3 Match | 1 Prize Money Winners |
 | LAN Finals | 2 Qualified | BO5 Match | 2 Prize Money Winners |
 
 
 ### Open Qualifer Rules
-List of registered teams is available here: _Add link to form/sheet_
+The list of registered teams is available here: _Add link to form/sheet_
 
-The tournament features a strict maximum capacity of 16 teams. While registration is open to an unlimited number of applicants, entry into the active tournament bracket is not guaranteed by registration time. Upon the registration deadline, all checked-in teams will be ranked according to the Seeding Priority Hierarchy (Section X.1). The top 16 highest-seeded teams will be admitted into the active tournament bracket. All remaining teams ranked 17th and below will be placed on a sequential Waiting List based on their seed.
+The Open Qualifier features a strict maximum capacity of 16 teams. While registration is open to an unlimited number of applicants, entry into the open qualifier is not guaranteed. Upon the registration deadline, all checked-in teams will be ranked according to the Seeding Priority Rules. The top 16 highest-seeded teams will be admitted into the Open Qualifier bracket. All remaining teams ranked 17th and below will be placed on a sequential Waiting List based on their seed.
 
+Seeding Priority Rules:
 Teams will be seeded into the open qualifer based on the following criteria:
 1. Valve Regional Standings (VRS): All registered teams holding an active, official Global VRS rank will automatically receive the highest priority seeds, ordered sequentially from the highest VRS rank to the lowest.
-2. FACEIT Elo
+2. FACEIT Elo: All remaining teams will be seeded based on the average FACEIT Elo of their starting roster.
+3. Time of registration: If the 16 team capacity is not reached after the first two Seeding Priority Rules, the remaining teams will be entered into the Open Qualifier based on registration time. With teams who registered first having priority.
+
+Players are resposible for providing IEC with their FACEIT profile through the official Player Registration Form. Failiure to provide IEC with a players FACEIT profile will result in his team not reciving average FACEIT Elo for seeding
+
+IEC reserves the right to adjust the Open Qualifiers to accomodate more teams, in case registered teams exceed 20+. This will be announced
 
 
-
-IEC reserves the right to adjust the Open Qualifiers by announcing it via [@UKICircuit](https://x.com/UKICircuit) on X with the Event Additional Information, as per the Valve TOR. !!!
+by announcing it via [@UKICircuit](https://x.com/UKICircuit) on X with the Event Additional Information, as per the Valve TOR. !!!
 
 ## 3.2 VRS Invites
 
