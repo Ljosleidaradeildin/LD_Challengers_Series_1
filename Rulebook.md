@@ -62,11 +62,13 @@ The format of IEC Challengers Series 1 is as follows:
 The live list of registered teams is available here: [Link to Form/Sheet]
 
 Tournament Capacity & Selection Criteria:
+
 The Open Qualifier features a strict maximum capacity of 16 teams. While registration is open to an unlimited number of applicants, entry into the active bracket is not guaranteed by registration time.
 
 Upon the registration deadline, all successfully checked-in teams will be ranked according to the Seeding Priority Rules. The top 16 highest-seeded teams will be admitted into the active tournament bracket. All remaining teams ranked 17th and below will be placed on a sequential Waiting List based on their seed.
 
 Seeding Priority Hierarchy:
+
 Teams are seeded into the active bracket or waiting list based on the following strict criteria:
 
 1. Valve Regional Standings (VRS): All registered teams holding an active, official Global VRS rank will automatically receive the highest priority seeds, ordered sequentially from the highest VRS rank to the lowest.
@@ -74,6 +76,7 @@ Teams are seeded into the active bracket or waiting list based on the following 
 3. Time of Registration: If the 16-team capacity is not filled after applying the first two criteria, the remaining slots will be awarded based on registration timestamps, with earlier registrations receiving priority.
 
 Player Responsibilities & Data Integrity:
+
 Players are entirely responsible for providing IEC with their correct FACEIT profile link via the official Player Registration Form.
 
 Failure to provide a valid FACEIT profile link will result in that specific player being calculated as 0 Elo toward the starting roster's team average, severely impacting the team's overall seeding priority.
