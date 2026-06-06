@@ -83,12 +83,14 @@ Failure to provide a valid FACEIT profile link will result in that specific play
 
 Qualifier format
 
-The Qualifier is split into two stages:
+The Open Qualifier is split into two stages:
 
 Stage 1: BO3 Single Elimination
 Stage 2: GSL Groups
 
 Teams seeded 1-12 advance directly into Stage 2, while teams seeded 13-20 start the tournament in Stage 1.
+
+If 16 or less teams are registered, then all teams advance directly to Stage 2.
 
 
 ## 3.2 VRS Invites
