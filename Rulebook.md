@@ -65,9 +65,9 @@ The live list of registered teams is available here: [Link to Form/Sheet]
 
 The Open Qualifier features a strict maximum capacity of 20 teams. While registration is open to an unlimited number of applicants, entry into the active bracket is not guaranteed by registration.
 
-Upon the registration deadline, all successfully checked-in teams will be seeded according to the Seeding Priority Rules. The top 20 highest-seeded teams will be admitted into the active tournament bracket. All remaining teams ranked 21st and below will be placed on a sequential waiting list based on their seed.
+Upon the registration deadline, all successfully checked-in teams will be seeded according to the Qualifier Seeding Priority Rules. The top 20 highest-seeded teams will be admitted into the active tournament bracket. All remaining teams ranked 21st and below will be placed on a sequential waiting list based on their seed.
 
-**Seeding Priority Hierarchy:**
+**Qualifier Seeding Priority Hierarchy:**
 
 Teams are seeded into the active bracket or waiting list based on the following strict criteria:
 
@@ -91,6 +91,13 @@ The Open Qualifier structure scales dynamically based on the final number of che
 | **17 to 20 Teams** | **Two-Stage Format**<br>Stage 1: BO3 Single Elimination<br>Stage 2: GSL Groups (BO3) | **Seeds 1–12:** Advance directly to Stage 2.<br>**Seeds 13–20:** Enter Stage 1. Teams will play a single-elimination knockout round until exactly 4 teams remain to join Stage 2. |
 | **16 or Fewer Teams** | **Single-Stage Format**<br>Stage 2: GSL Groups (BO3) | **All Teams:** Skip Stage 1 entirely and are seeded directly into the Stage 2 GSL Groups. |
 
+
+**Main Event Seeding Priority Hierarchy:**
+The Main Event stage consists entirely of teams advancing from the Open Qualifier. Initial seeding for the Main Event bracket/groups will be reset and determined strictly by Valve Tournament Operating Requirements (TOR) regarding stage seeding:
+
+1. **VRS Priority:** Any advancing teams holding an active Global Valve Regional Standings (VRS) rank as of the locked snapshot date will automatically be assigned the highest seeds, ordered from highest global rank to lowest.
+2. **Qualifier Performance:** All unranked teams will be seeded below the VRS-ranked teams. Their sorting order will be determined by their final match record and placement in the Open Qualifier stage.
+3. **Tiebreakers:** Identical qualifier records among unranked teams will be resolved using the starting roster's average FACEIT Elo snapshot taken at the original registration deadline.
 
 ## 3.2 VRS Invites
 
