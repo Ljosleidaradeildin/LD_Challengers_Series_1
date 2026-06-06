@@ -1,12 +1,11 @@
-## UKIC Season 10 Masters Qualifier #1 Seeding
+## IEC Challengers Series 1 Open Qualifier Seeding
 
 ### Teams are seeded using the following values:
-1. [Valve Regional Standings for Europe as of April 6th 2026](https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/invitation/2026/standings_europe_2026_04_06.md)
-2. UKIC Season 9 Placements
-3. ESEA S56 Average Placements
-4. Average FACEIT ELO
+1. [Valve Regional Standings for Europe as of August 3rd 2026](https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/invitation/2026/standings_europe_2026_04_06.md)
+2. FACEIT Elo
+3. Time of Registration
 
-[🔗 UKIC Masters | Season 10 | Qualifier 1](https://www.faceit.com/en/championship/2258dcf1-09e0-4e54-8ca9-fe7afe7ef065/UKIC%20Masters%20%7C%20Season%2010%20%7C%20Qualifier%201)
+[🔗 IEC Challengers Series 1 | Qualifier 1](https://www.challengermode.com/s/RISI)
 
 | Seed | Team | VRS | FACEIT Elo |
 | :--- | :--- | :--- | :--- |
@@ -30,6 +29,7 @@
 | 18 | | | |
 | 19 | | | |
 | 20 | | | |
+| -- | **=== Open Qualifier CUTOFF ===** | -- | -- |
 | 21 | | | |
 | 22 | | | |
 | 23 | | | |
@@ -40,3 +40,5 @@
 | 28 | | | |
 | 29 | | | |
 | 30 | | | |
+| 31 | | | |
+| 32 | | | |
