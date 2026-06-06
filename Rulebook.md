@@ -81,16 +81,15 @@ Players are entirely responsible for providing IEC with their correct FACEIT pro
 
 Failure to provide a valid FACEIT profile link will result in that specific player being calculated as 0 Elo toward the starting roster's team average, severely impacting the team's overall seeding priority.
 
-**Qualifier format**
+**Open Qualifier format and scaling**
 
-The Open Qualifier is split into two stages:
 
-Stage 1: BO3 Single Elimination
-Stage 2: GSL Groups
+The Open Qualifier structure scales dynamically based on the final number of checked-in teams to ensure a clean mathematical progression:
 
-Teams seeded 1-12 advance directly into Stage 2, while teams seeded 13-20 start the tournament in Stage 1.
-
-If 16 or less teams are registered, then all teams advance directly to Stage 2.
+| Checked-In Teams | Format Structure | Progression Details |
+| :--- | :--- | :--- |
+| **17 to 20 Teams** | **Two-Stage Format**<br>Stage 1: BO3 Single Elimination<br>Stage 2: GSL Groups (BO3) | **Seeds 1–12:** Advance directly to Stage 2.<br>**Seeds 13–20:** Enter Stage 1. Teams will play a single-elimination knockout round until exactly 4 teams remain to join Stage 2. |
+| **16 or Fewer Teams** | **Single-Stage Format**<br>Stage 2: GSL Groups (BO3) | **All Teams:** Skip Stage 1 entirely and are seeded directly into the Stage 2 GSL Groups. |
 
 
 ## 3.2 VRS Invites
