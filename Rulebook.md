@@ -1,6 +1,6 @@
 This rulebook governs the IEC Challengers Series 1. All players who compete in the IEC Challengers Series 1 agree to follow the rules outlined in this document. For any questions please contact the tournament officials and defer to their judgement.
 
-For contact purposes please reach out through rafithrottir@rafithrottir.is
+For contact purposes please reach out to RÍSÍ through rafithrottir@rafithrottir.is
 
 # 1.0 Definitions
 
@@ -52,7 +52,7 @@ The format of IEC Challengers Series 1 is as follows:
 
 | Event Stage | Teams | Format | Winners |
 |---|---|---|---|
-| Open Qualifiers | Open Sign-ups <br>16 available spots | Modified Swiss System <br>Rounds 1 and 2 BO1's, Rounds 3, 4 and 5 BO3's | 8 Teams advance to next stage |
+| Open Qualifiers | Open Sign-ups <br>20 available spots | Stage 1: BO3 Single Elimination <br>Stage 2: GSL Groups | 8 Teams advance to next stage |
 | Knockout Stage | 8 Qualified | Single Elimination BO3 Matches | 2 Teams advance to LAN Finals<br> 2 Teams advance to Third Place Decider |
 | Third Place Decider | 2 Qualified | BO3 Match | 1 Prize Money Winners |
 | LAN Finals | 2 Qualified | BO5 Match | 2 Prize Money Winners |
