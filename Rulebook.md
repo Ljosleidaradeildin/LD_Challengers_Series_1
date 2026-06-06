@@ -91,13 +91,13 @@ The Open Qualifier structure scales dynamically based on the final number of che
 | **17 to 20 Teams** | **Two-Stage Format**<br>Stage 1: BO3 Single Elimination<br>Stage 2: GSL Groups (BO3) | **Seeds 1–12:** Advance directly to Stage 2.<br>**Seeds 13–20:** Enter Stage 1. Teams will play a single-elimination knockout round until exactly 4 teams remain to join Stage 2. |
 | **16 or Fewer Teams** | **Single-Stage Format**<br>Stage 2: GSL Groups (BO3) | **All Teams:** Skip Stage 1 entirely and are seeded directly into the Stage 2 GSL Groups. |
 
-
+### 3.1.2 Main Event Rules & Regulations
 **Main Event Seeding Priority Hierarchy:**
 The Main Event stage consists entirely of teams advancing from the Open Qualifier. Initial seeding for the Main Event bracket/groups will be reset and determined strictly by Valve Tournament Operating Requirements (TOR) regarding stage seeding:
 
 1. **VRS Priority:** Any advancing teams holding an active Global Valve Regional Standings (VRS) rank as of the locked snapshot date will automatically be assigned the highest seeds, ordered from highest global rank to lowest.
-2. **Qualifier Performance:** All unranked teams will be seeded below the VRS-ranked teams. Their sorting order will be determined by their final match record and placement in the Open Qualifier stage.
-3. **Tiebreakers:** Identical qualifier records among unranked teams will be resolved using the starting roster's average FACEIT Elo snapshot taken at the original registration deadline.
+2. **Qualifier Performance:** All unranked teams will be seeded below the VRS-ranked teams. Their seeding order will be determined by their placement in the Open Qualifier GSL Groups.
+3. **Tiebreakers:** Identical qualifier placements among unranked teams will be resolved using the starting roster's average FACEIT Elo snapshot taken at the original registration deadline.
 
 ## 3.2 VRS Invites
 
