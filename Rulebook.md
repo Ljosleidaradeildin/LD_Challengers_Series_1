@@ -258,6 +258,10 @@ The designated coach may step in as a stand-in in accordance with [4.1.3 Stand-i
 
 Players are allowed to provide a private stream of the match to their coach for tactical purposes. This stream must be accessible only to the team’s technical staff. Any unauthorised access or distribution of the stream is strictly prohibited and may result in penalties, including potential disqualification from the event.
 
+### 4.1.4 Coach Rules
+
+_Add here rules regarding core roster 3/5 players and how they hold invite spots between tournaments.
+_
 ## 4.2 Match Rules and Details
 
 ### 4.2.1 Counter-Strike Version
