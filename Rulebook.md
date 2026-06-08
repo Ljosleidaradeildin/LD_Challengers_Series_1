@@ -145,6 +145,8 @@ The Publisher (Valve) reserves the right to remove any player or team from the t
 
 ## 3.8 Communication
 
+<span style="color:red">Við þurfum að setja upp solid communication leið fyrir alla</span>
+
 All official communication between participants and the Tournament Organizer will take place via Discord. For Masters, dedicated Discord channels will be created to include team captains, managers, and any other team members from all participating teams.
 
 Teams are responsible for actively monitoring Discord for match updates, scheduling information, and general tournament announcements. Each team must ensure at least one representative has joined the official Discord server prior to their first UKIC match.
@@ -154,6 +156,8 @@ UKIC reserves the right to remove any participant from the Discord server for an
 Please use the link below to join: [UK & Ireland Circuit Discord](https://ukicircuit.com/league)
 
 ## 3.9 Prize Money
+
+<span style="color:red">Uppfæra með réttum tölum og upplýsingar um greiðslu</span>
 
 Total Prize Pool per Season: £2,500 (~ $3,345 USD)
 1st Place: £1,700 (~ $2,274 USD)
