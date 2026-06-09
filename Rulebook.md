@@ -52,7 +52,7 @@ The format of IEC Challengers Series 1 is as follows:
 
 | Event Stage | Teams | Format | Winners |
 |---|---|---|---|
-| Open Qualifiers | Open Sign-ups <br>20 available spots | Stage 1: BO3 Single Elimination <br>Stage 2: GSL Groups | 8 Teams advance to next stage |
+| Open Qualifiers | Open Sign-ups <br>20 available spots | Stage 1: BO3 Single Elimination Play-In <br>Stage 2: GSL Groups | 8 Teams advance to next stage |
 | Knockout Stage <br>(Main Event) | 8 Qualified | Single Elimination BO3 Matches | 2 Teams advance to LAN Finals<br> 2 Teams advance to Third Place Decider |
 | Third Place Decider | 2 Qualified | BO3 Match | 1 Prize Money Winner |
 | LAN Finals | 2 Qualified | BO5 Match | 2 Prize Money Winners |
@@ -88,7 +88,7 @@ The Open Qualifier structure scales dynamically based on the final number of che
 
 | Checked-In Teams | Format Structure | Progression Details |
 | :--- | :--- | :--- |
-| **17 to 20 Teams** | **Two-Stage Format**<br>Stage 1: BO3 Single Elimination<br>Stage 2: GSL Groups (BO3) | **Seeds 1–12:** Advance directly to Stage 2.<br>**Seeds 13–20:** Enter Stage 1. Teams will play a single-elimination knockout round until exactly 4 teams remain to join Stage 2. |
+| **17 to 20 Teams** | **Two-Stage Format**<br>Stage 1: BO3 Single Elimination Play-In<br>Stage 2: GSL Groups (BO3) | **Seeds 1–12:** Advance directly to Stage 2.<br>**Seeds 13–20:** Enter Stage 1 Play-Ins. Teams will play a single-elimination knockout round until exactly 4 teams remain to join Stage 2. |
 | **16 or Fewer Teams** | **Single-Stage Format**<br>Stage 2: GSL Groups (BO3) | **All Teams:** Skip Stage 1 entirely and are seeded directly into the Stage 2 GSL Groups. |
 
 ### 3.1.2 Main Event Rules & Regulations
