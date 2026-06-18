@@ -105,9 +105,9 @@ If invites are used they will be based on VRS sub-lists, as follows:
 
 | Event | VRS Region & Sub Lists | Starting Rank | # Slots |
 |---|---|---|---|
-| UKIC Masters | Europe VRS<br>(UK & Ireland Country Filter) | Starting from Rank 12 | 4 Invites |
+| IEC Challengers Series 1 | Europe VRS<br>(Iceland Country Filter) | Starting from Rank 12 | 4 Invites |
 
-If the number of eligible VRS Teams is lower than the total number of Direct VRS Invite slots, UKIC reserves the right to reallocate any unfilled slot(s) to Open Qualifiers. This reallocation will be announced via [@UKICircuit](https://x.com/UKICircuit) on X prior to the event.
+If the number of eligible VRS Teams is lower than the total number of Direct VRS Invite slots, IEC reserves the right to reallocate any unfilled slot(s) to Open Qualifiers. This reallocation will be announced via [@UKICircuit](https://x.com/UKICircuit) on X prior to the event.
 
 ## 3.3 Invite Date
 
@@ -123,11 +123,11 @@ In accordance with Valve’s TOR, the Invite Date, VRS Dates, and Invite Breakdo
 
 If a team cannot, for any reason, participate in the tournament a replacement may be attributed to the next highest-ranked team available, VRS Team, using the same filters and Invite VRS.
 
-UKIC reserves the right to deny any team replacement if it is deemed to disrupt the competitive flow, schedule, or integrity of the event. In such cases, the original team will remain in the bracket and all remaining matches will be forfeited until the team is officially eliminated from the tournament.
+IEC reserves the right to deny any team replacement if it is deemed to disrupt the competitive flow, schedule, or integrity of the event. In such cases, the original team will remain in the bracket and all remaining matches will be forfeited until the team is officially eliminated from the tournament.
 
 ## 3.5 Open Qualifier Slots
 
-Any team that qualifies through Open Qualifiers must be fully eligible to compete in the regional event, in line with Valve’s Tournament Operating Requirements and the UKIC Rulebook. This includes:
+Any team that qualifies through Open Qualifiers must be fully eligible to compete in the Main Event, in line with Valve’s Tournament Operating Requirements and the IEC Rulebook. This includes:
 
 1. The core roster, for all matches, must currently reside in the region they are competing in.
 2. The core roster used to qualify (at least 3 of the 5 players) must be maintained for all starting matches of the regional event.
@@ -157,11 +157,10 @@ Please use the link below to join: [UK & Ireland Circuit Discord](https://ukicir
 
 ## 3.9 Prize Money
 
-<span style="color:red">Uppfæra með réttum tölum og upplýsingar um greiðslu</span>
-
 Total Prize Pool per Season: £2,500 (~ $3,345 USD)
-1st Place: £1,700 (~ $2,274 USD)
-2nd Place: £800 (~ $1,070 USD)
+1st Place: 300,000 kr. (~ $2,380 USD)
+2nd Place: 125,000 kr. (~ $991 USD)
+3RD Place: 75,000 kr. (~ $595 USD)
 
 Prize money will be paid out after receipt of a valid invoice, within the payment tranche following the conclusion of all Divisions within a UKIC Season.
 
