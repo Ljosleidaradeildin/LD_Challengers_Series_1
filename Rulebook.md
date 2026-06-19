@@ -180,7 +180,7 @@ The tournament organiser has the right to protect its own products created durin
 
 ### 3.10.3 Teams' Compliance
 
-Teams may not refuse to have their matches broadcasted by UKIC authorised broadcasts, nor can they choose in what manner the match will be broadcasted. The broadcast can only be rejected by the Tournament Officials. The teams agree to cooperate so that the broadcasting of matches can take place.
+Teams may not refuse to have their matches broadcasted by LD authorised broadcasts, nor can they choose in what manner the match will be broadcasted. The broadcast can only be rejected by the Tournament Officials. The teams agree to cooperate so that the broadcasting of matches can take place.
 
 ## 3.11 Betting on Matches
 
@@ -194,43 +194,40 @@ Teams that accept a VRS Invite must maintain at least three (3) out of five (5) 
 
 ## 3.13 Team Commitment & Withdrawals
 
-Once a team has confirmed its participation in a UKIC event, UKIC reserves the right to deny any withdrawal requests. Any team attempting to withdraw before being officially eliminated from the tournament may be subject to automatic match forfeits.
+Once a team has confirmed its participation in a LD event, LD reserves the right to deny any withdrawal requests. Any team attempting to withdraw before being officially eliminated from the tournament may be subject to automatic match forfeits.
 
-In accordance with Valve’s TOR, forfeiting a match may result in the loss of VRS Points. UKIC bears no responsibility for any penalties, point deductions, or eligibility consequences arising from forfeits, as these are enforced by Valve.
+In accordance with Valve’s TOR, forfeiting a match may result in the loss of VRS Points. LD bears no responsibility for any penalties, point deductions, or eligibility consequences arising from forfeits, as these are enforced by Valve.
 
-Teams are expected to fulfil their tournament commitments in full once participation is confirmed. Forfeiting matches or withdrawing may also impact a team’s eligibility for future UKIC invitations.
+Teams are expected to fulfil their tournament commitments in full once participation is confirmed. Forfeiting matches or withdrawing may also impact a team’s eligibility for future LD invitations.
 
 Forfeiting matches or withdrawing will also result in forfeiture of any Prize Money accumulated up to that point.
 
-# 4.1 Participation in UKIC Masters
+# 4.1 Participation in LD Challenger Series 1
 
 ## 4.1 Player & Team Eligibility
 
 ### 4.1.1  Player Eligibility
 
-- All players must be residing in Europe.
-- Players must follow the FACEIT site rules and are unable to compete if they have an active login or game ban on FACEIT. If you are banned from FACEIT you are not permitted to use another account to bypass this ban.
-- To be eligible to participate, all players must have installed and use the FACEIT AC, failure to do so will revoke a player's eligibility.
+- All players must be either Icelandic citizens (regardless of their country of residence) or current residents of Iceland.
+- To be eligible to participate, a player must have submitted the (LD Player Registration form)[https://forms.gle/U6D7BvGbm9AHdfKk6]
 - A player's steam name and account can not contain any inappropriate or offensive names, clan tags or images.
 - Competing players cannot have any outstanding UK & Ireland Club Bans (bans 1 month or greater).
 
 ### 4.1.2 Roster Eligibility
 
-The total number of team members must not exceed 8 (including 5 players, 2 stand-in and a coach).
+The total number of team members must not exceed 9 (including 5 players, 3 stand-ins and a coach).
 
 A team must always have at least 3 players in the server that are either citizens or residents of the following countries:
 
-- United Kingdom *(England, Scotland, Wales, Northern Ireland)*
-- Republic of Ireland
+- Icelandic citizens.
+- Residing in Iceland.
 - Isle of Man
 - Jersey
 - Guernsey
 
-All other players must be playing from countries of the [EU Region](https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/model/util/region.js).
-
 No player transfers between teams will be allowed within the same season.
 
-If a player participated in a single match for one team during a UKIC Season, they will not be eligible to play for a different participating team in the same season.
+If a player participated in a single match for one team during the tournament, they will not be eligible to play for a different participating team in the same tournament.
 
 Any changes to the team must be approved by Tournament Officials before any upcoming match. This includes, but is not limited to:
 
