@@ -226,7 +226,19 @@ Any changes to the team must be approved by Tournament Officials before any upco
 - Adding or removing players
 - Changing the team name or team logo
 
-### 4.1.3 Stand-in Rules
+### 4.1.2 Team Eligibility
+
+Single-Slot Restriction: No single organization, corporate entity, team owner, or management group may control, operate, or have a financial interest in more than one (1) team competing in any standalone LD tournament, including its qualifiers.
+
+Academy and Sister Teams: This restriction strictly applies to "Academy" teams, "Sister" teams, or secondary rosters under the same branding or ownership structure.
+
+Qualifier & Main Event Prohibition: An Academy/secondary team is strictly prohibited from entering any qualifier for LD tournaments if the Main team has already secured a slot or invitation to the main event of the same tournament.
+
+If both the Main and Academy teams are forced to play through the same open qualifier bracket, they may not participate in the same tournament cycle.
+
+Resolution of Conflict: In the event that two teams under the same ownership qualify for the same stage of the tournament through independent means, the parent organization must choose exactly one (1) roster to proceed. The unchosen roster will forfeit its slot, which will be awarded to the next eligible team based on tournament standings.
+
+### 4.1.4 Stand-in Rules
 
 Each team is permitted to register two (2) stand-in players at a time for the event. The team coach may also serve as a stand-in, subject to all applicable rules outlined herein.
 
@@ -238,11 +250,11 @@ Roster changes, including the use of stand-ins, are not permitted mid-map (Map i
 
 The use of a stand-in must not violate the VRS Core Roster requirement. Each team must field a minimum of three (3) out of five (5) players from the VRS Core Roster associated with their VRS Invite in every match. Use of a stand-in that causes a team to fall below this threshold is not permitted and will result in a technical loss.
 
-### 4.1.4 Coach Rules
+### 4.1.5 Coach Rules
 
 Teams are allowed to designate one individual as a coach during matches. The coach will not be connected to the game server but is permitted to join the team’s voice communication channel.
 
-The designated coach may step in as a stand-in in accordance with the 4.1.3 Stand-in Rules, and must fully comply with all eligibility and registration requirements outlined therein. The coach will be considered a player and will follow any rules accordingly.
+The designated coach may step in as a stand-in in accordance with the 4.1.4 Stand-in Rules, and must fully comply with all eligibility and registration requirements outlined therein. The coach will be considered a player and will follow any rules accordingly.
 
 Players are allowed to provide a private stream of the match to their coach for tactical purposes. This stream must be accessible only to the team’s technical staff. Any unauthorised access or distribution of the stream is strictly prohibited and may result in penalties, including potential disqualification from the event.
 
@@ -250,7 +262,7 @@ Players are allowed to provide a private stream of the match to their coach for 
 
 ### 4.2.1 Counter-Strike Version
 
-UKIC will use the most up-to-date version of Counter-Strike 2
+LD will use the most up-to-date version of Counter-Strike 2
 
 ### 4.2.2 Map List
 
