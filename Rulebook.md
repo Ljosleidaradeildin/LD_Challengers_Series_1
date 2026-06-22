@@ -211,7 +211,7 @@ Forfeiting matches or withdrawing will also result in forfeiture of any Prize Mo
 - All players must be either Icelandic citizens (regardless of their country of residence) or current residents of Iceland.
 - To be eligible to participate, a player must have submitted the (LD Player Registration form)[https://forms.gle/U6D7BvGbm9AHdfKk6]
 - A player's steam name and account can not contain any inappropriate or offensive names, clan tags or images.
-- Competing players cannot have any outstanding UK & Ireland Club Bans (bans 1 month or greater).
+- Competing players cannot have any outstanding RÍSÍ, ESIC, FACEIT or Valve bans.
 
 ### 4.1.2 Roster Eligibility
 
