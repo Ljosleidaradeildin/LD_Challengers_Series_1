@@ -325,7 +325,7 @@ Team 1 *(Left Side Team)* has the choice of which team bans first after the whic
 
 ### 4.2.5 Match Configuration
 
-**Server Configuration**
+**Server Configuration**  🔴🔴 Input frá Símoni 🔴🔴
 
 - Max Rounds: 24
 - Max Rounds for overtime: 6
@@ -334,32 +334,32 @@ Team 1 *(Left Side Team)* has the choice of which team bans first after the whic
 - Warmup time: 600 seconds for regular season, 300 for qualifiers
 - CSTV Delay: 120 seconds
 
-**Tactical Pause**
+**Tactical Pause**  🔴🔴 Input frá Símoni 🔴🔴
 
 - 3 x 30 second tactical timeouts throughout regulation
 - 1 time outs are added when regulation ends.
 - 1 time out is added on next overtime
 - Maximum of 1 timeouts per overtime
 
-Tactical Pauses can be initiated either via the in-game menu or via the following game chat commands:
+Tactical Pauses can be initiated either via the in-game menu or via the following game chat commands: 🔴🔴 Input frá Símoni 🔴🔴
 
 - !timeout / .timeout
 - !tac / .tac
 
 Tactical pauses can be used at any time but will come into effect at the next freeze time, or immediately if called during a freeze time.
 
-**Technical Pause**
+**Technical Pause**  🔴🔴 Input frá Símoni 🔴🔴
 
 - 5 Minutes of technical pause
 
-Technical Pauses can be initiated via the following game chat commands:
+Technical Pauses can be initiated via the following game chat commands:  🔴🔴 Input frá Símoni 🔴🔴
 
 - !pause / .pause
 - !tech / .tech
 
-Technical pauses can be used at any time but will come into effect at the next freeze time, or immediately if called during a freeze time.
+Technical pauses can be used at any time but will come into effect at the next freeze time, or immediately if called during a freeze time. 🔴🔴 Input frá Símoni 🔴🔴
 
-### 4.2.6 Match Start Rules
+### 4.2.6 Match Start Rules 🔴🔴 Input frá Símoni 🔴🔴
 
 Match vetoes will begin at the scheduled time of match displayed on the page, the captain must be ready to veto at this time. If the captain will not be available for the match, the team must inform the admin team so the captaincy can be transferred.
 
@@ -375,44 +375,56 @@ If an emergency substitute is required, it must be done before the match has gon
 
 A team can not intentionally stall the match configuration or intentionally break the match start procedure.
 
-### 4.2.7 Reschedule Rules
+### 4.2.7 Reschedule Rules 🔴🔴 Input frá Símoni 🔴🔴
 
-Reschedule requests must be made through each match channel in the [UK & Ireland Circuit Discord](https://ukicircuit.com/league).
+1. Default Match Time
+The default match time for the Open Qualifier and Main Event is 19:15 GMT on Tuesdays or Thursdays. The only exception is the Grand Final, which is played at 18:00 GMT on a Saturday. 🔴🔴Add 3rd place match 🔴🔴
 
-Matches can only be rescheduled within the same week as the initial default day
+2. Schedule Changes & Rescheduling
+Teams are permitted to reschedule their matches. However, the Tournament Administration must always ensure that there is at least one match available for broadcast every Tuesday and Thursday.
 
-Example: If a team wishes to reschedule a game default set to April 28, 2026 20:30 they will only be able to play during the following time frame: April 27, 2026 → May 3, 2026 
+3. Requirements for a Rescheduling Request
+Before submitting a request to the Tournament Administration, both teams must fully agree on the new date and time.
 
-All reschedule requests must be approved by an admin.
+4. How to Submit a Request
+The team captain from the initiating team must post a rescheduling request in the Facebook group: [Insert Link to LD Competitors Group Here].
 
-### 4.2.8 TeamSpeak
+The opposing team's captain must then approve the request by replying in the comments to officially signal their team's consent.
+
+The match is only officially rescheduled once a Tournament Administrator has given the final confirmation.
+
+5. Deadlines
+Rescheduling requests must be submitted no later than Monday at 12:00 GMT of the week the match is scheduled to take place. However, teams are highly encouraged to submit rescheduling requests at their earliest convenience.
+
+6. Broadcasted Matches
+The official broadcast schedule for Tuesday and Thursday matches will be announced on Monday, immediately after all pending rescheduling requests have been processed.
+
+### 4.2.8 TeamSpeak 🔴🔴
 
 Players will be using a TeamSpeak server provided by the tournament organizer in order to maintain the integrity of the competition.
 
 Teams are allowed to have 5 players and a coach during a live game in their TeamSpeak channel.
 
-All voice comms will be recorded but not shared publicly.
-
 Teams are eligible to request their own recordings which shall be provided to them via Tournament Officials.
 
 ### 4.2.9 Match Rules
 
-Any form of cheating or hacking is strictly forbidden in UKIC matches and will see the player disqualified from the tournament, as well as potentially their team, any act of cheating will be reported to FACEIT. Cheating in other tournaments will also subject a player to punishment pending evidence submitted from other Tournament Organizers.
+Any form of cheating or hacking is strictly forbidden in LD matches and will see the player disqualified from the tournament, as well as potentially their team Cheating in other tournaments will also subject a player to punishment pending evidence submitted from other Tournament Organizers.
 
 Any attempt at gaining an unfair advantage is forbidden, this includes but not limited to:
 
-Any map exploits - such as bypassing clipping, silent plants, plants outside the intended bomb sites, pixel walking or out of map positioning, interacting through solid objects and unintentional grenade exploits such as the Molotov clipping through vertigo mid and t stairs. We follow ESL’s defined list of pixel walks which you can view [here](https://docs.google.com/spreadsheets/d/1PXd_ozvguzCs2bj8bk5WARriC3q5OSfaa6W0V-7h90E/edit?gid=793412616#gid=793412616)
+Any map exploits - such as bypassing clipping, silent plants, plants outside the intended bomb sites, pixel walking or out of map positioning, interacting through solid objects and unintentional grenade exploits such as the Molotov clipping through vertigo mid and t stairs. LD follows ESL’s defined list of pixel walks which you can view [here](https://docs.google.com/spreadsheets/d/1PXd_ozvguzCs2bj8bk5WARriC3q5OSfaa6W0V-7h90E/edit?gid=793412616#gid=793412616)
 
-movement automations via script or hardware, this includes but not limited to:
+Movement automations via script or hardware, this includes but not limited to:
 
 - null bind scripts in config files
 - Snap Tap / SOCD, Rappy Snappy or other hardware equivalent
 
-Intentionally impacting the flow of the game, such as players leaving and re-joining the server to influence player cash, saving in unintended locations, planting the bomb in a position where it is impossible for a counter terrorist to defuse.
+Intentionally impacting the flow of the game, such as players leaving and re-joining the server to influence player cash, saving in unintended locations, planting the bomb in a position where it is impossible to defuse.
 
 If there is any advantage a team would like clarified please reach out to the admin team.
 
-### 4.2.10 Round Not Live / “NL”
+### 4.2.10 Round Not Live / “NL” 🔴🔴
 
 If a player or team is having technical issues at the start of a round they can call “Not Live” or “NL” via the in-game all chat, initiate a Technical Pause and call an Admin. This informs the opposition team that a player is having an issue and the current round is invalid.
 
@@ -420,7 +432,7 @@ If a player or team is having technical issues at the start of a round they can 
 - If the opposition team believes the “Not Live” has been called outside the scope of 4.2.11 Match Interruptions they can continue to play the round as normal and contest the “Not Live” with an Admin during the Tech Pause
 - The Admin will have the final say if the round will be restored for the team affected by the issue or awarded to the team contesting the “Not Live”
 
-### 4.2.11 Technical Issues
+### 4.2.11 Technical Issues 🔴🔴
 
 In the case of an Online Match:
 
@@ -436,22 +448,22 @@ Players must continue to play out any ongoing round until the pause has come int
 
 The misuse of a Technical Pause for a non-technical issue will result in the game being un-paused.
 
-### 4.2.12 **Match Interruptions**
+### 4.2.12 **Match Interruptions** 🔴🔴
 
-Any match interruption should be immediately reported to UKIC Admins by the Team and any Participant also affected.
+Any match interruption should be immediately reported to LD Admins by the Team and any Participant also affected.
 
 In the case of a technical issue the round will be restarted unless the round has reached the point of incidents.
 
-The point of incident is to be deﬁned exclusively by the UKIC Admin, generally this will include either team receiving significant damage, a clear information advantage, or the round has less than one (1) minute remaining.
+The point of incident is to be deﬁned exclusively by the LD Admin, generally this will include either team receiving significant damage, a clear information advantage, or the round has less than one (1) minute remaining.
 
 ## 4.3 Match Punishments
 
-For any in-game related infractions all punishments are subject to Tournament Officials discretion, following the basis of FACEIT and UKIC Infraction lengths.
+For any in-game related infractions all punishments are subject to Tournament Officials discretion.
 
 ### 4.3.1 **Match Forfeiture**
 
-If a team forfeits or gets disqualified from UKIC during any phase, all matches involving said team will be forfeited.
+If a team forfeits or gets disqualified from LD during any phase, all matches involving said team will be forfeited.
 
-### 4.3.2 Conduct
+### 4.3.2 Conduct 🔴🔴
 
 Please see [UKIC General Rulebook](https://ukicircuit.com/rules) for full list of conduct rules
