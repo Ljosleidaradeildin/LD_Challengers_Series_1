@@ -266,6 +266,8 @@ LD will use the most up-to-date version of Counter-Strike 2
 
 ### 4.2.2 Map List
 
+$${\color{lightgreen}{\text{This is a full line of green text}}}$$
+
 - Mirage
 - Inferno
 - Dust2
