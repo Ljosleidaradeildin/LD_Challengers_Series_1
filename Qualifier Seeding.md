@@ -1,11 +1,11 @@
-## IEC Challengers Series 1 Open Qualifier Seeding
+## LD Challengers Series 1 Open Qualifier Seeding
 
 ### Teams are seeded using the following:
 1. [Valve Regional Standings for Europe as of August 3rd 2026](https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/invitation/2026/standings_europe_2026_04_06.md)
 2. FACEIT Elo
 3. Time of Registration
 
-[🔗 IEC Challengers Series 1 | Qualifier 1](https://www.challengermode.com/s/RISI)
+[🔗 LD Challengers Series 1 | Qualifier 1](https://www.challengermode.com/s/RISI)
 
 | Seed | Team | VRS | FACEIT Elo |
 | :--- | :--- | :--- | :--- |
