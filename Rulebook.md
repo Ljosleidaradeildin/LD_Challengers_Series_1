@@ -51,7 +51,7 @@ The format of LD Challengers Series 1 is as follows:
 
 | Event Stage | Teams | Format | Winners |
 |---|---|---|---|
-| Open Qualifiers | Open Sign-ups <br>20 available spots | Stage 1: BO3 Single Elimination Play-In <br>Stage 2: GSL Groups | 8 Teams advance to next stage |
+| Open Qualifiers | Open Sign-ups <br>20 available spots | Stage 1: BO3 Single Elimination Play-In <br>Stage 2: GSL Groups | 8 Teams advance to Main Event |
 | Knockout Stage <br>(Main Event) | 8 Qualified | Single Elimination BO3 Matches | 2 Teams advance to LAN Finals<br> 2 Teams advance to Third Place Decider |
 | Third Place Decider | 2 Qualified | BO3 Match | 1 Prize Money Winner |
 | LAN Finals | 2 Qualified | BO5 Match | 2 Prize Money Winners |
@@ -61,6 +61,7 @@ The format of LD Challengers Series 1 is as follows:
 The live list of registered teams is available here: [Link to Form/Sheet] 🔴🔴
 
 **Tournament Capacity & Selection Criteria:**
+Registration for the LD Challenger Series 1 Open Qualifiers is fully open to the public, subject to the regional eligibility rules outlined in Section [Y] (Icelandic Residency/Nationality Requirement).
 
 The Open Qualifier features a strict maximum capacity of 20 teams. While registration is open to an unlimited number of applicants, entry into the active bracket is not guaranteed by registration.
 
@@ -202,16 +203,14 @@ Teams are expected to fulfil their tournament commitments in full once participa
 
 Forfeiting matches or withdrawing will also result in forfeiture of any Prize Money accumulated up to that point.
 
-# 4.1 Participation in LD Challengers Series 1
-
-## 4.1 Player & Team Eligibility
+# 4.1 Participation in LD Challengers Series 1 - Player & Team Eligibility
 
 ### 4.1.1  Player Eligibility
 
 - All players must be either Icelandic citizens (regardless of their country of residence) or current residents of Iceland.
 - To be eligible to participate, a player must have submitted the (LD Player Registration form)[https://forms.gle/U6D7BvGbm9AHdfKk6]
 - A player's steam name and account can not contain any inappropriate or offensive names, clan tags or images.
-- Competing players cannot have any outstanding RÍSÍ, ESIC, FACEIT or Valve bans.
+- Competing players cannot have any outstanding RÍSÍ, ESIC, FACEIT or CS2 bans.
 
 ### 4.1.2 Roster Eligibility
 
