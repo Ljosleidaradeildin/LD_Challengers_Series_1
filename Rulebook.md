@@ -58,18 +58,21 @@ The format of LD Challengers Series 1 is as follows:
 
 
 ### 3.1.1 Open Qualifier Rules & Regulations
-The live list of registered teams is available here: [Link to Form/Sheet] 🔴🔴
 
 **Tournament Capacity & Selection Criteria:**
-Registration for the LD Challenger Series 1 Open Qualifiers is fully open to the public, subject to the regional eligibility rules outlined in Section [Y] (Icelandic Residency/Nationality Requirement).
+Registration for the LD Challenger Series 1 Open Qualifiers is fully open to the public, subject to the eligibility rules outlined in Section 4.1.
 
-The Open Qualifier features a strict maximum capacity of 20 teams. While registration is open to an unlimited number of applicants, entry into the active bracket is not guaranteed by registration.
+Maximum Bracket Capacity: The Open Qualifier is strictly capped at a maximum of 20 teams.
 
-Upon the registration deadline, all successfully checked-in teams will be seeded according to the Qualifier Seeding Priority Rules. The top 20 highest-seeded teams will be admitted into the active tournament bracket. All remaining teams ranked 21st and below will be placed on a sequential waiting list based on their seed.
+First-Come, First-Served (FCFS): To ensure total transparency and fairness in accordance with Valve Tournament Operation Requirements (TOR), all available tournament slots will be allocated purely on a first-come, first-served basis based on the exact digital timestamp of the Team Registration form.
 
-**Qualifier Seeding Priority Hierarchy:**
+The live list of registered teams is available here: [Link to Form/Sheet] 🔴🔴
 
-Teams are seeded into the active bracket or waiting list based on the following strict criteria:
+Once the 20-team capacity is filled, subsequent teams completing registration will be placed on waitlist based on registration timestamps.
+
+**Qualifier Seeding**
+
+Teams are seeded in the Open Qualifier based on the following strict criteria:
 
 1. Valve Regional Standings (VRS): All registered teams holding an active, official Global VRS rank will automatically receive the highest priority seeds, ordered sequentially from the highest VRS rank to the lowest.
 2. FACEIT Elo: All remaining unranked teams will be seeded below the VRS tier, ordered by the mathematical average FACEIT Elo of their registered starting roster.
@@ -77,9 +80,11 @@ Teams are seeded into the active bracket or waiting list based on the following 
 
 **Player Responsibilities & Data Integrity:**
 
-Players are entirely responsible for providing LD with their correct FACEIT profile link via the official LD Player Registration Form.
+Players are entirely responsible for providing LD with their correct FACEIT profile link via the official (LD Player Registration form)[https://forms.gle/sRZmxBaLxRRF38xu6] or via the Team Registration form when signing up for the Open Qualifier.
 
-Failure to provide a valid FACEIT profile link will result in that specific player being calculated as 0 Elo toward the starting roster's team average, severely impacting the team's overall seeding priority.
+Invalid or Missing Links (Administrative Error): Failure to provide a valid, active FACEIT profile link by the registration deadline will result in that specific player being calculated as 0 Elo toward the starting roster's team average, which will impact the team's overall seeding priority.
+
+False or Fraudulent Profiles (Identity Misrepresentation): Submitting a false, fraudulent, or deceptive FACEIT profile link—including but not limited to an account the player does not personally own, an account belonging to another individual, or a smurf account meant to distort rankings—is strictly prohibited. If a player is found to have submitted a false account link, the entire team will be immediately disqualified and removed from the qualifier.
 
 **Open Qualifier format and scaling**
 
@@ -87,7 +92,7 @@ The Open Qualifier structure scales dynamically based on the final number of che
 
 | Checked-In Teams | Format Structure | Progression Details |
 | :--- | :--- | :--- |
-| **17 to 20 Teams** | **Two-Stage Format**<br>Stage 1: BO3 Single Elimination Play-In<br>Stage 2: GSL Groups (BO3) | **Seeds 1–12:** Advance directly to Stage 2.<br>**Seeds 13–20:** Enter Stage 1 Play-Ins. Teams will play a single-elimination knockout round until exactly 4 teams remain to join Stage 2. |
+| **17 to 20 Teams** | **Two-Stage Format**<br>Stage 1: BO3 Single Elimination Play-In<br>Stage 2: GSL Groups (BO3) | **Seeds 1–12:** Advance directly to Stage 2.<br>**Seeds 13–20:** Enter Stage 1 Play-Ins. Teams will play a BO3 single-elimination knockout round to determine the 4 teams advancing to Stage 2. |
 | **16 or Fewer Teams** | **Single-Stage Format**<br>Stage 2: GSL Groups (BO3) | **All Teams:** Skip Stage 1 entirely and are seeded directly into the Stage 2 GSL Groups. |
 
 ### 3.1.2 Main Event Rules & Regulations
