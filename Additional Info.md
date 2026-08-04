@@ -14,8 +14,8 @@
 ### **2. Format**
 
 - Qualifiers:
-    - 4 Open Qualifiers
-    - Single Elimination BO1’s
+    - 20 spots available. First come, first served open signups through form.
+    - Stage 1: Single-elimination BO3 knockout. Stage 2: GSL Groups
     - Semi Finals BO3 for qualification
     - Top 2 teams qualify from each qualifier
 - Main Stage:
