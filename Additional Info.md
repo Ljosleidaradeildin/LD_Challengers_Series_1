@@ -1,18 +1,15 @@
 ### **1. Dates**
 
 - Qualifiers:
-    - [Qualifier #1](https://www.faceit.com/en/championship/ebaaaed6-b362-478c-9174-dbdf1901fd72/UKIC%20Masters%20%7C%20Season%2011%20%7C%20Qualifier%201): July 09, 2026
-    - [Qualifier #2](https://www.faceit.com/en/championship/1441486d-4a12-4ad0-aa73-1c6d1358e324/UKIC%20Masters%20%7C%20Season%2011%20%7C%20Qualifier%202): July 10, 2026
-    - [Qualifier #3](https://www.faceit.com/en/championship/8fab6d71-80f3-4668-b891-ada7ed3b92dc/UKIC%20Masters%20%7C%20Season%2011%20%7C%20Qualifier%203): July 13, 2026
-    - [Qualifier #4](https://www.faceit.com/en/championship/a7e7eca5-41f9-431c-b587-1c7ecdc077fc/UKIC%20Masters%20%7C%20Season%2011%20%7C%20Qualifier%204): July 14, 2026
-- DE Main Stage:
-    - Upper Bracket Round 1: July 27, 2026 → August 2, 2026
-    - Upper Bracket Round 2 & Lower Bracket Round 1: August 3, 2026 → August 9, 2026
-    - Lower Bracket Round 2: August 10, 2026 → August 16, 2026
-    - Upper Bracket Round 3 & Lower Bracket Round 3: August 17, 2026 → August 23, 2026
-    - Lower Bracket Round 4: August 24, 2026 → August 30, 2026
-- LAN Final:
-    - September 19, 2026
+    - [Open Qualifier](https://www.faceit.com/en/championship/ebaaaed6-b362-478c-9174-dbdf1901fd72/UKIC%20Masters%20%7C%20Season%2011%20%7C%20Qualifier%201): Sept 08, 2026 → Sept 17, 2026 !!!!!!!!!!!!!!!!
+- DE Main Event:
+    - Quarter Finals 2/4: Sept 22, 2026
+    - Quarter Finals 4/4: Sept 24, 2026
+    - Semi Finals 1: Sept 29, 2026
+    - Semi Finals 1: Oct 1, 2026
+    - Third Place Decider: Oct 2, 2026
+- LAN Finals:
+    - Grand Final: 3.Oct, 2026
 
 ### **2. Format**
 
