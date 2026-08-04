@@ -80,9 +80,9 @@ Teams are seeded in the Open Qualifier based on the following strict criteria:
 
 **Player Responsibilities & Data Integrity:**
 
-Players are entirely responsible for providing LD with their correct FACEIT profile link via the official (LD Player Registration form)[https://forms.gle/sRZmxBaLxRRF38xu6] or via the Team Registration form when signing up for the Open Qualifier.
+Players are entirely responsible for providing LD with their correct FACEIT profile link via the official (LD Player Registration form)[https://forms.gle/sRZmxBaLxRRF38xu6] or via the Team Registration form when signing up for LD competitions.
 
-Invalid or Missing Links (Administrative Error): Failure to provide a valid, active FACEIT profile link by the registration deadline will result in that specific player being calculated as 0 Elo toward the starting roster's team average, which will impact the team's overall seeding priority.
+Invalid or Missing Links (Administrative Error): Failure to provide a valid, active FACEIT profile link by the registration deadline will result in that specific player being calculated as 0 Elo toward the starting roster's team average, which may impact the team's overall seeding priority.
 
 False or Fraudulent Profiles (Identity Misrepresentation): Submitting a false, fraudulent, or deceptive FACEIT profile link—including but not limited to an account the player does not personally own, an account belonging to another individual, or a smurf account meant to distort rankings—is strictly prohibited. If a player is found to have submitted a false account link, the entire team will be immediately disqualified and removed from the qualifier.
 
