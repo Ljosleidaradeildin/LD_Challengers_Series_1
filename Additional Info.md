@@ -69,7 +69,8 @@ If a team requires a stand-in for a qualifier, the stand-in must be registered a
 
 ### **8. Prize Distribution**
 
-Total Prize pool: £2,500 *($3,303.50)*
+Total Prize pool: 500,000 kr. *($4,057.12)*
 
-- 1st Place – £1,700 *($2,246.38)*
-- 2nd Place – £800 *($1,057.12)*
+- 1st Place – 300,000 kr. *($2,434.27)*
+- 2nd Place – 125,000 kr. *(1,014.28)*
+- 3rd Place – 75,000 kr. *($608.57)*
