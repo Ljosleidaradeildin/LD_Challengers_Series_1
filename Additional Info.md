@@ -2,7 +2,7 @@
 
 - Open Qualifiers:
     - [Open Qualifier](https://www.faceit.com/en/championship/ebaaaed6-b362-478c-9174-dbdf1901fd72/UKIC%20Masters%20%7C%20Season%2011%20%7C%20Qualifier%201): Sept 08, 2026 → Sept 17, 2026 !!!!!!!!!!!!!!!!
-- Main Event:
+- Main Stage:
     - Quarter Finals 2/4: Sept 22, 2026
     - Quarter Finals 4/4: Sept 24, 2026
     - Semi Finals 1: Sept 29, 2026
@@ -16,8 +16,8 @@
 - Open Qualifiers:
     - 20 spots available. First come, first served open signups through form.
     - Stage 1: Single-elimination BO3 knockout. Stage 2: GSL Groups
-    - 2 teams from each GSL group advance to the Main Event. 8 Teams in total.
-- Main Event:
+    - 2 teams from each GSL group advance to the Main Stage. 8 Teams in total.
+- Main Stage:
     - Single Elimination Bracket
     - All Games BO3
     - 8 Teams Total
@@ -45,10 +45,10 @@ If a team requires a stand-in for a qualifier, the stand-in must be registered a
 - Invite Publication: N/A
 - Seeding:
     - Valve Regional Standings for Europe as of September 2026
-    - Open Qualifier Placement (Applicable only for the Main Event)
+    - Open Qualifier Placement (Applicable only for the Main Stage)
     - Average FACEIT ELO
 - Location:
-    - Online: Open Qualifiers, Main Event.
+    - Online: Open Qualifiers, Main Stage.
     - LAN: BO5 Grand Finals (Reykjavik, Iceland)
 
 ### **7. LAN Final Info**
