@@ -4,7 +4,7 @@ For contact purposes please reach out to the tournament operator, RÍSÍ, throug
 
 # 1.0 Definitions
 
-- **RÍSÍ:** The Icelandic Esports Federation, and the owners and organizers of LD.
+- **RÍSÍ:** The Icelandic Esports Association, and the owners and organizers of LD.
 - **LD:** Ljósleiðaradeildin, the Icelandic tournament circuit for CS2.
 - **Participants:** Teams and players who participate in LD.
 - **Team Core:** A team’s core consists of three (3) players out of the five (5) players at a minimum.
