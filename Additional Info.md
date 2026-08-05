@@ -2,7 +2,7 @@
 
 - Qualifiers:
     - [Open Qualifier](https://www.faceit.com/en/championship/ebaaaed6-b362-478c-9174-dbdf1901fd72/UKIC%20Masters%20%7C%20Season%2011%20%7C%20Qualifier%201): Sept 08, 2026 → Sept 17, 2026 !!!!!!!!!!!!!!!!
-- DE Main Event:
+- Main Event:
     - Quarter Finals 2/4: Sept 22, 2026
     - Quarter Finals 4/4: Sept 24, 2026
     - Semi Finals 1: Sept 29, 2026
@@ -16,13 +16,13 @@
 - Qualifiers:
     - 20 spots available. First come, first served open signups through form.
     - Stage 1: Single-elimination BO3 knockout. Stage 2: GSL Groups
-    - Semi Finals BO3 for qualification
-    - Top 2 teams qualify from each qualifier
-- Main Stage:
-    - Double Elimination Bracket
+    - 2 teams from each GSL group advance to the Main Event. 8 Teams in total.
+- Main Event:
+    - Single Elimination Bracket
     - All Games BO3
     - 8 Teams Total
-    - Winners of UBR3 & LBR4 Qualify to LAN Finals
+    - Winners of Semi Finals Qualify to LAN Finals
+    - Losers of Semi Finals play Third Place Decider
 - LAN Final:
     - Single Best of 5
 
@@ -32,16 +32,7 @@
 
 ### **4. Eligibility**
 
-This tournament is solely for teams composing of at least 3/5 players that are citizens or residents of the following countries:
-
-- United Kingdom *(England, Scotland, Wales, Northern Ireland)*
-- Ireland
-- Iceland
-- Isle of Man
-- Jersey
-- Guernsey
-
-All other players must be playing from countries of the [EU Region](https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/model/util/region.js).
+This tournament is solely for teams composing of 5/5 players that are citizens or residents of Iceland.
 
 ### **5. Qualification**
 
@@ -53,13 +44,12 @@ If a team requires a stand-in for a qualifier, the stand-in must be registered a
 
 - Invite Publication: N/A
 - Seeding:
-    - Valve Regional Standings for Europe as of July 2026
-    - UKIC Season 10 Placements
-    - ESEA S57 Average Placements
+    - Valve Regional Standings for Europe as of September 2026
+    - Open Qualifier Placement (Applicable only for the Main Event)
     - Average FACEIT ELO
 - Location:
-    - Online EU: Open Qualifiers, Double Elimination Play-in
-    - LAN: Sheffield, United Kingdom
+    - Online: Open Qualifiers, Main Event.
+    - LAN: BO5 Grand Finals (Reykjavik, Iceland)
 
 ### **7. LAN Final Info**
 
