@@ -1,6 +1,6 @@
 ### **1. Dates**
 
-- Qualifiers:
+- Open Qualifiers:
     - [Open Qualifier](https://www.faceit.com/en/championship/ebaaaed6-b362-478c-9174-dbdf1901fd72/UKIC%20Masters%20%7C%20Season%2011%20%7C%20Qualifier%201): Sept 08, 2026 → Sept 17, 2026 !!!!!!!!!!!!!!!!
 - Main Event:
     - Quarter Finals 2/4: Sept 22, 2026
@@ -13,7 +13,7 @@
 
 ### **2. Format**
 
-- Qualifiers:
+- Open Qualifiers:
     - 20 spots available. First come, first served open signups through form.
     - Stage 1: Single-elimination BO3 knockout. Stage 2: GSL Groups
     - 2 teams from each GSL group advance to the Main Event. 8 Teams in total.
