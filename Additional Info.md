@@ -1,7 +1,10 @@
 ### **1. Dates**
 
 - Open Qualifiers:
-    - [Open Qualifier](https://www.faceit.com/en/championship/ebaaaed6-b362-478c-9174-dbdf1901fd72/UKIC%20Masters%20%7C%20Season%2011%20%7C%20Qualifier%201): Sept 08, 2026 → Sept 17, 2026 !!!!!!!!!!!!!!!!
+    - Stage 1 - Single Elimination BO3: Sept 8, 2026
+    - Stage 2 - GSL Groups BO3 Round 1: Sept 10, 2026
+    - Stage 2 - GSL Groups BO3 Round 2: Sept 15, 2026
+    - Stage 2 - GSL Groups BO3 Round 3: Sept 17, 2026
 - Main Stage:
     - Quarter Finals 2/4: Sept 22, 2026
     - Quarter Finals 4/4: Sept 24, 2026
