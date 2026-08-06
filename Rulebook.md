@@ -66,6 +66,8 @@ Maximum Bracket Capacity: The Open Qualifier is strictly capped at a maximum of 
 
 First-Come, First-Served (FCFS): To ensure total transparency and fairness in accordance with Valve Tournament Operation Requirements (TOR), all available tournament slots will be allocated purely on a first-come, first-served basis based on the exact digital timestamp of the Team Registration form.
 
+All Team Registrations are subject to verification by the Tournament Organizer (TO). The TO reserves the right to reject, invalidate, or remove any registration that contains incomplete, false, or inaccurate data, or fails to satisfy eligibility rules (e.g., active VAC bans, incorrect region, missing Steam IDs). If a registration is deemed invalid, the spot will be passed to the next valid submission in the timestamp queue.
+
 The live list of registered teams is available here: [Áskorendamót Ljósleiðarans - Registered Teams](https://docs.google.com/spreadsheets/d/1S23D6px94FTjtUYUVbpliWTUXvpes1JEUU17aqxPNH0/edit?usp=sharing) 🔴🔴
 
 Once the 20-team capacity is filled, subsequent teams completing registration will be placed on waitlist based on registration timestamps.
