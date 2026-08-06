@@ -123,7 +123,7 @@ Teams have 72 hours to accept an invite. Failure to respond within this timefram
 
 Participants are expected to keep Tournament Officials up to date on relevant team contact details, as well as changes as they occur, to ensure invites are received as intended.
 
-In accordance with Valve’s TOR, the Invite Date, VRS Dates, and Invite Breakdown will be published via [@UKICircuit](https://x.com/UKICircuit) on X along with the Event’s Additional Information. 🔴🔴
+In accordance with Valve’s TOR, the Invite Date, VRS Dates, and Invite Breakdown will be documented via the [Ljósleiðaradeildin Github](https://github.com/Ljosleidaradeildin) and announced via [Ljósleiðaradeildin](https://www.facebook.com/ljosleidaradeildin) on Facebook along with the Event’s Additional Information.
 
 ## 3.4 Team Replacements
 
@@ -143,7 +143,7 @@ Teams that don’t meet these requirements may be disqualified or replaced witho
 
 ## 3.6 Seed VRS
 
-The Seed VRS will be announced on a per event basis, with the Event Additional Information, via [@UKICircuit](https://x.com/UKICircuit) on X. 🔴🔴
+The Seed VRS will be announced on a per event basis, with the Event Additional Information, documented via the [Ljósleiðaradeildin Github](https://github.com/Ljosleidaradeildin) and announced via [Ljósleiðaradeildin](https://www.facebook.com/ljosleidaradeildin) on Facebook.
 
 ## 3.7 Publisher’s Rights
 
