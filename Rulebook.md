@@ -41,7 +41,7 @@ LD tournaments are operated in compliance with Valve’s Tournament Operating Re
 
 The format of each tournament may be changed according to the needs of TO. The exact format and schedule will be presented to the invited teams by the TO prior to each competition.
 
-Each Event Additional Information will be announced, as per Valve TOR, via [@UKICircuit](https://x.com/UKICircuit) on X. !!! 🔴🔴
+Each Event Additional Information will be, as per Valve TOR, documented via the [Ljósleiðaradeildin Github](https://github.com/Ljosleidaradeildin) and announced via [Ljósleiðaradeildin](https://www.facebook.com/ljosleidaradeildin) on Facebook.
 
 # 3.0 Tournament Information
 
@@ -68,7 +68,7 @@ First-Come, First-Served (FCFS): To ensure total transparency and fairness in ac
 
 All Team Registrations are subject to verification by the Tournament Organizer (TO). The TO reserves the right to reject, invalidate, or remove any registration that contains incomplete, false, or inaccurate data, or fails to satisfy eligibility rules (e.g., active VAC bans, incorrect region, missing Steam IDs). If a registration is deemed invalid, the spot will be passed to the next valid submission in the timestamp queue.
 
-The live list of registered teams is available here: [Áskorendamót Ljósleiðarans - Registered Teams](https://docs.google.com/spreadsheets/d/1S23D6px94FTjtUYUVbpliWTUXvpes1JEUU17aqxPNH0/edit?usp=sharing) 🔴🔴
+The live list of registered teams is available here: [Áskorendamót Ljósleiðarans - Registered Teams](https://docs.google.com/spreadsheets/d/1S23D6px94FTjtUYUVbpliWTUXvpes1JEUU17aqxPNH0/edit?usp=sharing)
 
 Once the 20-team capacity is filled, subsequent teams completing registration will be placed on waitlist based on registration timestamps.
 
@@ -113,7 +113,7 @@ If invites are used they will be based on VRS sub-lists, as follows:
 |---|---|---|---|
 | LD Challengers Series 1 | Europe VRS<br>(Iceland Country Filter) | Starting from Rank 12 | 4 Invites |
 
-If the number of eligible VRS Teams is lower than the total number of Direct VRS Invite slots, LD reserves the right to reallocate any unfilled slot(s) to Open Qualifiers. This reallocation will be announced via [@UKICircuit](https://x.com/UKICircuit) on X prior to the event. 🔴🔴
+If the number of eligible VRS Teams is lower than the total number of Direct VRS Invite slots, LD reserves the right to reallocate any unfilled slot(s) to Open Qualifiers. This reallocation will be announced via [Ljósleiðaradeildin](https://www.facebook.com/ljosleidaradeildin) on Facebook prior to the event.
 
 ## 3.3 Invite Date
 
