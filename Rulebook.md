@@ -190,10 +190,6 @@ The tournament organiser has the right to protect its own products created durin
 
 Teams may not refuse to have their matches broadcasted by LD authorised broadcasts, nor can they choose in what manner the match will be broadcasted. The broadcast can only be rejected by the Tournament Officials. The teams agree to cooperate so that the broadcasting of matches can take place.
 
-## 3.11 Betting on Matches
-
-No players, team managers, staff, or management of attending organisations can place any bets on or be involved in betting or gambling, associate with betters or gamblers, or provide any third party with information that may assist betting or gambling, either directly or indirectly for any LD matches or event.
-
 ## 3.12 Roster Eligibility
 
 If a roster is unable to participate, fails to respond within 72 hours of receipt of an invite or chooses to decline a direct VRS Invite, the invite will be extended to the next roster in order of the VRS, with respective filters applied (if any), until all tournament slots are filled.
@@ -258,7 +254,7 @@ Roster changes, including the use of stand-ins, are not permitted mid-map (Map i
 
 The use of a stand-in must not violate the VRS Core Roster requirement. Each team must field a minimum of three (3) out of five (5) players from the VRS Core Roster associated with their VRS Invite in every match. Use of a stand-in that causes a team to fall below this threshold is not permitted and will result in a technical loss.
 
-### 4.1.5 Coach Rules 🔴🔴
+### 4.1.5 Coach Rules
 
 Teams are allowed to register one coach when signing up for the tournament. The designated coach may step in as a stand-in in accordance with the 4.1.4 Stand-in Rules, and must fully comply with all eligibility and registration requirements outlined therein. The coach will be considered a player and will follow any rules accordingly.
 
@@ -295,25 +291,22 @@ LD will use the most up-to-date version of Counter-Strike 2
 
 ### 4.2.2 Map List
 
-Muna að fara yfir og confirm'a maps rétt fyrir mót 🔴🔴🔴
-
 - Mirage
 - Inferno
 - Dust2
 - Anubis
 - Nuke
 - Ancient
-- Overpass
+- Cache
 
-### 4.2.3 FACEIT Matchroom Cycle 🔴🔴 Heyra frá Símoni hvernig match cycle er hjá okkur 🔴🔴
+### 4.2.3 Matchroom Cycle 🔴🔴 Heyra frá Símoni hvernig match cycle er hjá okkur 🔴🔴
 
-- Vote for server
-- Higher Seed (*Left team)* pick who starts map veto
+- Higher Seed starts map veto
 - Vote for maps
 - Choose Line-up
 - Play
 
-### 4.2.4 Map Veto
+### 4.2.4 Map Veto 🔴🔴
 
 **Best of One’s**
 
@@ -407,15 +400,19 @@ A team can not intentionally stall the match configuration or intentionally brea
 ### 4.2.7 Reschedule Rules 🔴🔴 Input frá Símoni 🔴🔴
 
 1. Default Match Time
-The default match time for the Open Qualifier and Main Event is 19:15 GMT on Tuesdays or Thursdays. The only exception is the Grand Final, which is played at 18:00 GMT on a Saturday. 🔴🔴Add 3rd place match 🔴🔴
+The default match time for the Open Qualifier and Main Stage is 19:15 GMT on Tuesdays or Thursdays.
 
-2. Schedule Changes & Rescheduling
+The only exceptions are the Grand Final and Third-place decider:
+Third-place decider: Oct 2, 2026 at 19:15 GMT (Friday)
+Grand Final: Oct 3, 2026 at 18:00 GMT (Saturday)
+
+3. Schedule Changes & Rescheduling
 Teams are permitted to reschedule their matches. However, the Tournament Administration must always ensure that there is at least one match available for broadcast every Tuesday and Thursday.
 
-3. Requirements for a Rescheduling Request
-Before submitting a request to the Tournament Administration, both teams must fully agree on the new date and time.
+4. Requirements for a Rescheduling Request
+Before submitting a request to the TO, both teams must fully agree on the new date and time.
 
-4. How to Submit a Request
+5. How to Submit a Request 🔴🔴🔴🔴 Skoða í kvöld með Símon
 The team captain from the initiating team must post a rescheduling request in the Facebook group: [Insert Link to LD Competitors Group Here].
 
 The opposing team's captain must then approve the request by replying in the comments to officially signal their team's consent.
@@ -432,9 +429,7 @@ The official broadcast schedule for Tuesday and Thursday matches will be announc
 
 Players will be using a TeamSpeak server provided by the tournament organizer in order to maintain the integrity of the competition.
 
-Teams are allowed to have 5 players and a coach during a live game in their TeamSpeak channel.
-
-Teams are eligible to request their own recordings which shall be provided to them via Tournament Officials.
+Teams are allowed to have 5 players and the registered coach during a live game in their TeamSpeak channel.
 
 ### 4.2.9 Match Rules
 
@@ -495,4 +490,23 @@ If a team forfeits or gets disqualified from LD during any phase, all matches in
 
 ### 4.3.2 Conduct 🔴🔴
 
-Please see [UKIC General Rulebook](https://ukicircuit.com/rules) for full list of conduct rules
+**Media Obligations**
+Registered teams may be required to participate in official media activities, including photo shoots, promotional content, and broadcast interviews. Players must actively coordinate with LD and RÍSÍ to fulfill these commitments professionally and on schedule.
+
+**Confidentiality of Admin Communications**
+All communications between players and tournament organizers are strictly private. Sharing, transcribing, or publishing these messages without prior consent from tournament management is prohibited.
+
+**Code of Respect**
+Players must treat opponents, spectators, broadcast crews, tournament officials, and RÍSÍ staff with respect and professionalism at all times.
+
+**Community Standards and Anti-Harassment**
+Players serve as role models for the community and must not make statements or engage in behavior that harms the league's reputation. Hate speech, racism, sexual harassment, threats, or any form of abuse will not be tolerated.
+
+**Betting Restrictions**
+No players, team managers, staff, or management of attending organisations can place any bets on or be involved in betting or gambling, associate with betters or gamblers, or provide any third party with information that may assist betting or gambling, either directly or indirectly for any LD matches or events.
+
+**Substance Policy**
+Competing while under the influence of alcohol, drugs, or any intoxicating substances is strictly prohibited.
+
+**Competitive Integrity**
+Players must compete to win at all times. Intentionally throwing games, match-fixing, or failing to play to full capacity is strictly forbidden.
