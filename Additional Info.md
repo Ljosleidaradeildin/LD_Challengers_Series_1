@@ -56,19 +56,16 @@ If a team requires a stand-in for a qualifier, the stand-in must be registered a
 
 ### **7. LAN Final Info**
 
-- 3 Days (2 Nights) Accommodation provided by UK & Ireland Circuit for both teams
-    - 3 x Twin Rooms per team minimum
-- Up to £600 travel stipend provided to both qualified teams
-- 24 Hour access to Pracrooms
-    - Pracrooms Equipment & Specifications
-        - 6 x PC’s
+- The BO5 LAN finals will take place at Next Level Gaming, Egilshöll - Reykjavik, Iceland.
+- Each team competing in the final get's their own private competition room.
+  - The team have access to these room from 10:00 GMT on matchday, to set up and warm up.
+    - Private rooms Equipment & Specifications
+        - 5 x PC’s
             - Ryzen 7 7800X3D
             - Nvidia RTX 3070Ti
             - 32GB DDR5 RAM
-        - 6 x 360Hz BenQ Monitors
-        - 6 x Streamplify Webcams
-        - 6 x Noblechairs
-        - 1 x 55” Smart TV
+        - 5 x 360Hz BenQ Monitors
+        - 5 x Gaming Chairs
 
 ### **8. Prize Distribution**
 
