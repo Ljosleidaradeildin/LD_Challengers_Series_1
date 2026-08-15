@@ -215,13 +215,15 @@ Forfeiting matches or withdrawing will also result in forfeiture of any Prize Mo
 ### 4.1.1  Player Eligibility
 
 - All players must be either Icelandic citizens (regardless of their country of residence) or current residents of Iceland.
-- To be eligible to participate, a player must have submitted the (LD Player Registration form)[https://forms.gle/U6D7BvGbm9AHdfKk6]
+- To be eligible to participate, a player must have submitted the [LD Player Registration form](https://forms.gle/U6D7BvGbm9AHdfKk6)
 - A player's steam name and account can not contain any inappropriate or offensive names, clan tags or images.
 - Competing players cannot have any outstanding RÍSÍ, ESIC, FACEIT or CS2 bans.
 
 ### 4.1.2 Roster Eligibility
 
-The total number of team members must not exceed 8 (including 5 players, 2 stand-ins and a coach).
+For the Open Qualifier, the total number of team members must not exceed 8 (including 5 players, 2 stand-ins and a coach).
+
+For the Main Stage, teams can only register one stand-in. If a team that qualifies for the Main Stage had two stand-ins registered in the Open Qualifier, the TO will reach out to confirm which stand-in out of the two shall be registered for the Main Event.
 
 No player transfers between teams will be allowed within the same season.
 
@@ -246,7 +248,7 @@ Resolution of Conflict: In the event that two teams under the same ownership qua
 
 ### 4.1.4 Stand-in Rules
 
-Each team is permitted to register two (2) stand-in players at a time for the event. The team coach may also serve as a stand-in, subject to all applicable rules outlined herein.
+As previously stated, each team is permitted to register two (2) stand-in players for the Open Qualifiers, and one (1) stand-in for the Main Stage. The team coach may also serve as a stand-in, subject to all applicable rules outlined herein.
 
 Stand-ins are eligible only if they have not participated for another team in the same tournament. A stand-in must be approved by Tournament Officials prior to the start of the respective match.
 
