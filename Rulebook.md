@@ -206,7 +206,7 @@ Teams are expected to fulfil their tournament commitments in full once participa
 
 Forfeiting matches or withdrawing will also result in forfeiture of any Prize Money accumulated up to that point.
 
-# 4.1 Participation in LD Challengers Series 1 - Player & Team Eligibility
+## 4.1 Participation in LD Challengers Series 1 - Player & Team Eligibility
 
 ### 4.1.1  Player Eligibility
 
@@ -488,7 +488,9 @@ For any in-game related infractions all punishments are subject to Tournament Of
 
 If a team forfeits or gets disqualified from LD during any phase, all matches involving said team will be forfeited.
 
-### 4.3.2 Conduct 🔴🔴
+# 5.0 Other
+
+## 5.1 Conduct
 
 **Media Obligations**
 Registered teams may be required to participate in official media activities, including photo shoots, promotional content, and broadcast interviews. Players must actively coordinate with LD and RÍSÍ to fulfill these commitments professionally and on schedule.
