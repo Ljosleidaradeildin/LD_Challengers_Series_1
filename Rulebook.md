@@ -252,6 +252,8 @@ Once a stand-in has played for a team in a tournament, they are locked to that t
 
 Roster changes, including the use of stand-ins, are not permitted mid-map (Map is ongoing). However, in-between maps roster changes are allowed.
 
+If a player experiences an irrecoverable technical issue (e.g., severe hardware crash, persistent connection failure) or a medical emergency, a mid-map substitute can only enter the game with explicit, case-by-case approval from the Tournament Administrator. ---------------------
+
 The use of a stand-in must not violate the VRS Core Roster requirement. Each team must field a minimum of three (3) out of five (5) players from the VRS Core Roster associated with their VRS Invite in every match. Use of a stand-in that causes a team to fall below this threshold is not permitted and will result in a technical loss.
 
 ### 4.1.5 Coach Rules
@@ -299,11 +301,10 @@ LD will use the most up-to-date version of Counter-Strike 2
 - Ancient
 - Cache
 
-### 4.2.3 Matchroom Cycle 🔴🔴 Heyra frá Símoni hvernig match cycle er hjá okkur 🔴🔴
+### 4.2.3 Matchroom Cycle
 
-- Higher Seed starts map veto
+- Higher Seed decides who picks first in veto.
 - Vote for maps
-- Choose Line-up
 - Play
 
 ### 4.2.4 Map Veto 🔴🔴
@@ -347,7 +348,7 @@ Team 1 *(Left Side Team)* has the choice of which team bans first after the whic
 
 ### 4.2.5 Match Configuration
 
-**Server Configuration**  🔴🔴 Input frá Símoni 🔴🔴
+**Server Configuration**
 
 - Max Rounds: 24
 - Max Rounds for overtime: 6
@@ -356,25 +357,25 @@ Team 1 *(Left Side Team)* has the choice of which team bans first after the whic
 - Warmup time: 600 seconds for regular season, 300 for qualifiers
 - CSTV Delay: 120 seconds
 
-**Tactical Pause**  🔴🔴 Input frá Símoni 🔴🔴
+**Tactical Pause**
 
 - 3 x 30 second tactical timeouts throughout regulation
 - 1 time outs are added when regulation ends.
 - 1 time out is added on next overtime
 - Maximum of 1 timeouts per overtime
 
-Tactical Pauses can be initiated either via the in-game menu or via the following game chat commands: 🔴🔴 Input frá Símoni 🔴🔴
+Tactical Pauses can be initiated either via the in-game menu or via the following game chat commands:
 
 - !timeout / .timeout
 - !tac / .tac
 
 Tactical pauses can be used at any time but will come into effect at the next freeze time, or immediately if called during a freeze time.
 
-**Technical Pause**  🔴🔴 Input frá Símoni 🔴🔴
+**Technical Pause**
 
 - 5 Minutes of technical pause
 
-Technical Pauses can be initiated via the following game chat commands:  🔴🔴 Input frá Símoni 🔴🔴
+Technical Pauses can be initiated via the following game chat commands:
 
 - !pause / .pause
 - !tech / .tech
