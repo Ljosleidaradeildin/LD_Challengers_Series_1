@@ -58,7 +58,7 @@ If a team requires a stand-in for a qualifier, the stand-in must be registered a
 
 - The BO5 LAN finals will take place at Next Level Gaming, Egilshöll - Reykjavik, Iceland.
 - Each team competing in the final get's their own private team room for the event.
-  - The team have access to these room from 11:00 GMT on matchday to setup and practice.
+  - The teams have access to these room from 11:00 GMT on matchday to setup and practice.
     - Team rooms equipment & specifications.
         - 5 x PC’s
             - Ryzen 7 7800X3D
