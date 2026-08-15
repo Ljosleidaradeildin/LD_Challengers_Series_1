@@ -260,7 +260,29 @@ The use of a stand-in must not violate the VRS Core Roster requirement. Each tea
 
 ### 4.1.5 Coach Rules 🔴🔴
 
-Teams are allowed to designate one individual as a coach during matches. The coach will not be connected to the game server but is permitted to join the team’s voice communication channel.
+Teams are allowed to register one coach when signing up for the tournament.
+
+- Online matches
+  - Coaches are not allow to connect directly with the match server. Players may provide private streams of their POV's for the coach to watch.
+  - Coaches are permitted to communicate verbally and via text with their players only during the following Authorized Communication windows.
+
+- LAN matches
+  - 123
+
+- Authorized Communication Windows
+  - Tactical Dialogue: Coaches are permitted to communicate verbally and via text with their players only during the following specified match phases
+    - Pre-Match Warmup: From the time players join the server until the live match config is executed by the admin.
+    - Tactical Timeouts: During a team-called tactical timeout (standard configuration allows for four 30-second timeouts per map). Communication must cease immediately when the freezetime clock expires.
+    - Half-time/Side Swaps: During the designated break period when sides switch at round twelve (12).
+    - Map Transitions: In best-of-three (Bo3) or best-of-five (Bo5) series, during the authorized intermission between individual maps.
+  - Active Round Communication Ban: Coaches must maintain complete radio silence during active play. Once the freeze time of a round ends and the round officially begins, no communication (verbal, non-verbal, physical, or text) is allowed until the round concludes or a timeout is called.
+ 
+- Infractions and Enforcement
+  - Warning Protocol: A minor or first-time violation of coaching communication boundaries (e.g., speaking a few seconds into a live round or accidental physical contact) will result in an official verbal match warning recorded by the match referee.
+  - Severe Penalties: Repeated infractions or deliberate breaches of competitive integrity (e.g., providing live tactical feedback during an active round, utilizing unmonitored secondary communication software, or possessing electronic devices on a LAN stage) will result in immediate escalation by the head referee. Penalties include, but are not limited to:
+    - Automatic forfeiture of the current map.
+    - Disqualification of the coach from the tournament entirely.
+    - Complete team forfeiture of the match series.
 
 The designated coach may step in as a stand-in in accordance with the 4.1.4 Stand-in Rules, and must fully comply with all eligibility and registration requirements outlined therein. The coach will be considered a player and will follow any rules accordingly.
 
