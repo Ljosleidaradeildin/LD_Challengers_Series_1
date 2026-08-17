@@ -51,8 +51,8 @@ The format of LD Challengers Series 1 is as follows:
 
 | Event Stage | Teams | Format | Winners |
 |---|---|---|---|
-| Open Qualifiers | Open Sign-ups <br>20 available spots | Stage 1: BO3 Single Elimination Play-In <br>Stage 2: GSL Groups BO3 | 8 Teams advance to Main Event |
-| Knockout Stage <br>(Main Event) | 8 Qualified | Single Elimination BO3 Matches | 2 Teams advance to LAN Finals<br> 2 Teams advance to Third Place Decider |
+| Open Qualifiers | Open Sign-ups <br>20 available spots | Stage 1: BO3 Single Elimination Play-In <br>Stage 2: GSL Groups BO3 | 8 Teams advance to Main Stage |
+| Knockout Stage <br>(Main Stage) | 8 Qualified | Single Elimination BO3 Matches | 2 Teams advance to LAN Finals<br> 2 Teams advance to Third Place Decider |
 | Third Place Decider | 2 Qualified | BO3 Match | 1 Prize Money Winner |
 | LAN Finals | 2 Qualified | BO5 Match | 2 Prize Money Winners |
 
