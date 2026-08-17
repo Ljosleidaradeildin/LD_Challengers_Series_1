@@ -264,7 +264,7 @@ The use of a stand-in must not violate the VRS Core Roster requirement. Each tea
 Teams are allowed to register one coach when signing up for the tournament. The designated coach may step in as a stand-in in accordance with the 4.1.4 Stand-in Rules, and must fully comply with all eligibility and registration requirements outlined therein. The coach will be considered a player and will follow any rules accordingly.
 
 - Online matches
-  - Coaches are not allow to connect directly with the match server. Players may provide private streams of their POV's for the coach to watch.
+  - Coaches are not allowed to connect directly with the match server. Players may provide private streams of their POV's for the coach to watch.
   - Coaches are permitted to communicate verbally and via text with their players during Authorized Communication windows.
 
 - Offline matches (LAN)
@@ -383,7 +383,7 @@ Technical Pauses can be initiated via the following game chat commands:
 - !pause / .pause
 - !tech / .tech
 
-Technical pauses can be used at any time but will come into effect at the next freeze time, or immediately if called during a freeze time. 🔴🔴 Input frá Símoni 🔴🔴
+Technical pauses can be used at any time but will come into effect at the next freeze time, or immediately if called during a freeze time.
 
 ### 4.2.6 Match Start Rules
 
@@ -408,9 +408,9 @@ A team can not intentionally stall the match configuration or intentionally brea
 1. Default Match Time
 The default match time for the Open Qualifier and Main Stage is 19:15 GMT on Tuesdays or Thursdays.
 
-The only exceptions are the Grand Final and Third-place decider:
-Third-place decider: Oct 2, 2026 at 19:15 GMT (Friday)
-Grand Final: Oct 3, 2026 at 18:00 GMT (Saturday)
+  The only exceptions are the Grand Final and Third-place decider:
+  Third-place decider: Oct 2, 2026 at 19:15 GMT (Friday)
+  Grand Final: Oct 3, 2026 at 18:00 GMT (Saturday)
 
 3. Schedule Changes & Rescheduling
 Teams are permitted to reschedule their matches. However, the Tournament Administration must always ensure that there is at least one match available for broadcast at 19:15 GMT every Tuesday and Thursday.
@@ -420,23 +420,25 @@ Teams are permitted to reschedule their matches. However, the Tournament Adminis
 - The new date and time must be within a reasonable timeframe from the original match time, and not clash with or disrupt tournament operations for the following rounds.
 
 5. How to Submit a Request
-The captain from the initiating team must post a rescheduling request in the "reschedule-request" channel on the [Ljósleiðaradeildin Discord Server](https://discord.gg/VsAqyYybrJ)
+  The captain from the initiating team must post a rescheduling request in the "reschedule-request" channel on the [Ljósleiðaradeildin Discord Server](https://discord.gg/VsAqyYybrJ)
 
-The opposing team's captain must then approve the request by replying in that same channel.
+  The opposing team's captain must then approve the request by replying in that same channel.
 
-Once both teams teams have communicated their wish to reschedule the match, tournament admins will have to give final confirmation.
+  Once both teams teams have communicated their wish to reschedule the match, tournament admins will have to give final confirmation.
 
-Timestamps in the "reschedule-request" channel are used to determine match reschedules on a first come, first served basis. Tournament admins may deny rescheduling requests to ensure a match is available for the broadcast.
+  Timestamps in the "reschedule-request" channel are used to determine match reschedules on a first come, first served basis. Tournament admins may deny rescheduling requests to ensure a match is available for the broadcast.
 
 5. Deadlines
-Rescheduling requests must be submitted no later than Monday at 12:00 GMT of the week the match is scheduled to take place. However, teams are highly encouraged to submit rescheduling requests at their earliest convenience.
+Rescheduling requests must be submitted no later than Monday at 13:00 GMT of the week the match is scheduled to take place. However, teams are highly encouraged to submit rescheduling requests at their earliest convenience.
 
 6. Broadcasted Matches
 The official broadcast schedule for Tuesday and Thursday matches will be announced on Monday, immediately after all pending rescheduling requests have been processed.
 
-### 4.2.8 TeamSpeak 🔴🔴
+### 4.2.8 TeamSpeak
 
-Players will be using a TeamSpeak server provided by the tournament organizer in order to maintain the integrity of the competition.
+Players must use the following TeamSpeak server to communicate during matches.
+
+ts.cs2.is
 
 Teams are allowed to have 5 players and the registered coach during a live game in their TeamSpeak channel.
 
@@ -461,7 +463,7 @@ If there is any advantage a team would like clarified please reach out to the ad
 
 If a player or team is having technical issues at the start of a round they can call “Not Live” or “NL” via the in-game all chat, initiate a Technical Pause (- !tech / .tech) and call an Admin. This informs the opposition team that a player is having an issue and the current round is invalid.
 
-Failure to communicate “Not Live” or “NL” prior to damage being dealt means the round will not be restored.
+Failure to communicate “Not Live” or “NL” prior to damage being dealt means the round cannot not be restored.
 
 - Once the round has ended and the Technical Pause has started the affected player / team must follow 4.2.11 Technical Issues
 - If the opposition team believes the “Not Live” has been called outside the scope of 4.2.11 Match Interruptions they can continue to play the round as normal and contest the “Not Live” with an Admin during the Tech Pause
