@@ -162,7 +162,7 @@ Teams are responsible for actively monitoring Discord for match updates, schedul
 
 LD reserves the right to remove any participant from the Discord server for any breach of tournament rules.
 
-Please use the link below to join: [Ljósleiðaradeildin Discord](https://discord.gg/6dzrBFhVBD)
+Please use the link below to join: [Ljósleiðaradeildin Discord](https://discord.gg/VsAqyYybrJ)
 
 ## 3.9 Prize Money
 
@@ -420,7 +420,7 @@ Teams are permitted to reschedule their matches. However, the Tournament Adminis
 - The new date and time must be within a reasonable timeframe from the original match time, and not clash with or disrupt tournament operations for the following rounds.
 
 5. How to Submit a Request
-The captain from the initiating team must post a rescheduling request in the "reschedule-request" channel on the [Ljósleiðaradeildin Discord Server](https://discord.gg/6dzrBFhVBD)
+The captain from the initiating team must post a rescheduling request in the "reschedule-request" channel on the [Ljósleiðaradeildin Discord Server](https://discord.gg/VsAqyYybrJ)
 
 The opposing team's captain must then approve the request by replying in that same channel.
 
