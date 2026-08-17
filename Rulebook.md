@@ -224,7 +224,7 @@ For the Open Qualifier, the total number of team members must not exceed 8 (incl
 
 For the Main Stage, teams can only register one stand-in. If a team that qualifies for the Main Stage had two stand-ins registered in the Open Qualifier, the TO will reach out to confirm which stand-in out of the two shall be registered for the Main Event.
 
-No player transfers between teams will be allowed within the same season.
+No player transfers between teams will be allowed during the same tournament.
 
 If a player participated in a single match for one team during the tournament, they will not be eligible to play for a different participating team in the same tournament.
 
