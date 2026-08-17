@@ -151,15 +151,13 @@ The Publisher (Valve) reserves the right to remove any player or team from the t
 
 ## 3.8 Communication
 
-Við þurfum að setja upp solid communication leið fyrir alla 🔴🔴
+All official communication between participants and the Tournament Organizer will take place via Discord. Dedicated Discord channels will be created to include team captains, managers, and any other team members from all participating teams.
 
-All official communication between participants and the Tournament Organizer will take place via Discord. For Masters, dedicated Discord channels will be created to include team captains, managers, and any other team members from all participating teams.
+Teams are responsible for actively monitoring Discord for match updates, scheduling information, and general tournament announcements. Each team must ensure at least one representative has joined the official Discord server before the first round of matches, to have an established communication channel between the team and tournament admins.
 
-Teams are responsible for actively monitoring Discord for match updates, scheduling information, and general tournament announcements. Each team must ensure at least one representative has joined the official Discord server prior to their first UKIC match.
+LD reserves the right to remove any participant from the Discord server for any breach of tournament rules.
 
-UKIC reserves the right to remove any participant from the Discord server for any breach of tournament rules.
-
-Please use the link below to join: [UK & Ireland Circuit Discord](https://ukicircuit.com/league) 🔴🔴
+Please use the link below to join: [Ljósleiðaradeildin Discord](https://discord.gg/6dzrBFhVBD)
 
 ## 3.9 Prize Money
 
