@@ -305,11 +305,11 @@ LD will use the most up-to-date version of Counter-Strike 2
 - Vote for maps
 - Play
 
-### 4.2.4 Map Veto 🔴🔴
+### 4.2.4 Map Veto
 
 **Best of One’s**
 
-Team 1 *(Left Side Team)* has the choice of which team bans first after the which the pick & ban procedure is as follows:
+Team 1 *(Higher Seed)* has the choice of which team bans first after the which the pick & ban procedure is as follows:
 
 - Team A - Ban
 - Team B - Ban
@@ -322,7 +322,7 @@ Team 1 *(Left Side Team)* has the choice of which team bans first after the whic
 
 **Best of Three’s**
 
-Team 1 *(Left Side Team)* has the choice of which team bans first after the which the pick & ban procedure is as follows:
+Team 1 *(Higher Seed)* has the choice of which team bans first after the which the pick & ban procedure is as follows:
 
 - Team A - Ban
 - Team B - Ban
@@ -334,7 +334,7 @@ Team 1 *(Left Side Team)* has the choice of which team bans first after the whic
 
 **Best of Five’s**
 
-Team 1 *(Left Side Team)* has the choice of which team bans first after the which the pick & ban procedure is as follows:
+Team 1 *(Higher Seed)* has the choice of which team bans first after the which the pick & ban procedure is as follows:
 
 - Team A - Ban
 - Team B - Ban
@@ -380,15 +380,17 @@ Technical Pauses can be initiated via the following game chat commands:
 
 Technical pauses can be used at any time but will come into effect at the next freeze time, or immediately if called during a freeze time. 🔴🔴 Input frá Símoni 🔴🔴
 
-### 4.2.6 Match Start Rules 🔴🔴 Input frá Símoni 🔴🔴
+### 4.2.6 Match Start Rules
 
 Match vetoes will begin at the scheduled time of match displayed on the page, the captain must be ready to veto at this time. If the captain will not be available for the match, the team must inform the admin team so the captaincy can be transferred.
 
-All matches must start 10 minutes after the veto has finished with all 10 players joining the server. Otherwise the match will be forfeited by the team that has not joined.
+All matches must start 15 minutes after the veto has finished with all 10 players joining the server. Otherwise the match will be forfeited by the team that has not joined.
 
-In the event of a technical issue where the team has made an admin aware and the affected player is present within the matchroom, the game server can be restarted with no forfeit.
+In the event of a technical issue where the team has made an admin aware and the affected player is present, the game server can be restarted with no forfeit.
 
 Teams must have all 5 players present on the server for a match to take place. Teams are not allowed to start with 4v5, 3v5 etc
+
+For matches on broadcast, match vetoes and start times might be adjusted slightly to accommodate the broadcast. In such cases, tournament admins will be in contact with the teams through Discord to coordinate accordingly.
 
 **Agent skins are forbidden**, if an opposing team is using them they must be reported **before the match**, no action will be taken after the match has ended.
 
