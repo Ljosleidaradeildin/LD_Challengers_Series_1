@@ -107,7 +107,7 @@ The Main Event stage consists entirely of teams advancing from the Open Qualifie
 
 | Checked-In Teams | Format Structure |
 | :--- | :--- |
-| **8 Teams** | **BO3 Single Elimination<br>BO5 Grand Final |
+| **8 Teams** | **BO3 Single Elimination**<br>(BO5 Final) |
 
 
 ## 3.2 VRS Invites
