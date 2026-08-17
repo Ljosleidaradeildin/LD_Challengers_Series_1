@@ -105,6 +105,11 @@ The Main Event stage consists entirely of teams advancing from the Open Qualifie
 2. **Qualifier Performance:** All unranked teams will be seeded below the VRS-ranked teams. Their seeding order will be determined by their placement in the Open Qualifier GSL Groups.
 3. **Tiebreakers:** Identical qualifier placements among unranked teams will be resolved using the starting roster's average FACEIT Elo snapshot taken at the original registration deadline.
 
+| Checked-In Teams | Format Structure |
+| :--- | :--- |
+| **8 Teams** | **BO3 Single Elimination<br>BO5 Grand Final |
+
+
 ## 3.2 VRS Invites
 
 If invites are used they will be based on VRS sub-lists, as follows:
