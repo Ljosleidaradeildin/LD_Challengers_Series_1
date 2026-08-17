@@ -250,7 +250,7 @@ Once a stand-in has played for a team in a tournament, they are locked to that t
 
 Roster changes, including the use of stand-ins, are not permitted mid-map (Map is ongoing). However, in-between maps roster changes are allowed.
 
-If a player experiences an irrecoverable technical issue (e.g., severe hardware crash, persistent connection failure) or a medical emergency, a mid-map substitute can only enter the game with explicit, case-by-case approval from the Tournament Administrator. ---------------------
+If a player experiences an irrecoverable technical issue (e.g., severe hardware crash, persistent connection failure) or a medical emergency, a mid-map substitute can only enter the game with explicit, case-by-case approval from the Tournament Administrator.
 
 The use of a stand-in must not violate the VRS Core Roster requirement. Each team must field a minimum of three (3) out of five (5) players from the VRS Core Roster associated with their VRS Invite in every match. Use of a stand-in that causes a team to fall below this threshold is not permitted and will result in a technical loss.
 
@@ -390,15 +390,15 @@ In the event of a technical issue where the team has made an admin aware and the
 
 Teams must have all 5 players present on the server for a match to take place. Teams are not allowed to start with 4v5, 3v5 etc
 
+If an emergency substitute is required, it must be done before the match has gone live with approval from tournament admins.
+
 For matches on broadcast, match vetoes and start times might be adjusted slightly to accommodate the broadcast. In such cases, tournament admins will be in contact with the teams through Discord to coordinate accordingly.
 
-**Agent skins are forbidden**, if an opposing team is using them they must be reported **before the match**, no action will be taken after the match has ended.
-
-If an emergency substitute is required, it must be done before the match has gone live as hot-swapping a player is not possible on FACEIT. For the team requiring a substitute the match can be restarted if the score is 1-0, with that team then forfeiting the pistol round, with the opposing team given the best monetary round win conditions.
+**Agent skins are forbidden**, if an opposing team is using them they must be reported **before or during the match**, no action will be taken after the match has ended.
 
 A team can not intentionally stall the match configuration or intentionally break the match start procedure.
 
-### 4.2.7 Reschedule Rules 🔴🔴 Input frá Símoni 🔴🔴
+### 4.2.7 Reschedule Rules
 
 1. Default Match Time
 The default match time for the Open Qualifier and Main Stage is 19:15 GMT on Tuesdays or Thursdays.
@@ -408,17 +408,20 @@ Third-place decider: Oct 2, 2026 at 19:15 GMT (Friday)
 Grand Final: Oct 3, 2026 at 18:00 GMT (Saturday)
 
 3. Schedule Changes & Rescheduling
-Teams are permitted to reschedule their matches. However, the Tournament Administration must always ensure that there is at least one match available for broadcast every Tuesday and Thursday.
+Teams are permitted to reschedule their matches. However, the Tournament Administration must always ensure that there is at least one match available for broadcast at 19:15 GMT every Tuesday and Thursday.
 
 4. Requirements for a Rescheduling Request
-Before submitting a request to the TO, both teams must fully agree on the new date and time.
+- Both teams must fully agree on the new date and time.
+- The new date and time must be within a reasonable timeframe from the original match time, and not clash with or disrupt tournament operations for the following rounds.
 
-5. How to Submit a Request 🔴🔴🔴🔴 Skoða í kvöld með Símon
-The team captain from the initiating team must post a rescheduling request in the Facebook group: [Insert Link to LD Competitors Group Here].
+5. How to Submit a Request
+The captain from the initiating team must post a rescheduling request in the "reschedule-request" channel on the [Ljósleiðaradeildin Discord Server](https://discord.gg/6dzrBFhVBD)
 
-The opposing team's captain must then approve the request by replying in the comments to officially signal their team's consent.
+The opposing team's captain must then approve the request by replying in that same channel.
 
-The match is only officially rescheduled once a Tournament Administrator has given the final confirmation.
+Once both teams teams have communicated their wish to reschedule the match, tournament admins will have to give final confirmation.
+
+Timestamps in the "reschedule-request" channel are used to determine match reschedules on a first come, first served basis. Tournament admins may deny rescheduling requests to ensure a match is available for the broadcast.
 
 5. Deadlines
 Rescheduling requests must be submitted no later than Monday at 12:00 GMT of the week the match is scheduled to take place. However, teams are highly encouraged to submit rescheduling requests at their earliest convenience.
