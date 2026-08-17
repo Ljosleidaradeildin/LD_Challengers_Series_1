@@ -454,13 +454,15 @@ If there is any advantage a team would like clarified please reach out to the ad
 
 ### 4.2.10 Round Not Live / “NL” 🔴🔴
 
-If a player or team is having technical issues at the start of a round they can call “Not Live” or “NL” via the in-game all chat, initiate a Technical Pause and call an Admin. This informs the opposition team that a player is having an issue and the current round is invalid.
+If a player or team is having technical issues at the start of a round they can call “Not Live” or “NL” via the in-game all chat, initiate a Technical Pause (- !tech / .tech) and call an Admin. This informs the opposition team that a player is having an issue and the current round is invalid.
 
-- Once the round has ended and the Technical Pause has started the affected player / team must follow 4.2.10 Technical Issues
+Failure to communicate “Not Live” or “NL” prior to damage being dealt means the round will not be restored.
+
+- Once the round has ended and the Technical Pause has started the affected player / team must follow 4.2.11 Technical Issues
 - If the opposition team believes the “Not Live” has been called outside the scope of 4.2.11 Match Interruptions they can continue to play the round as normal and contest the “Not Live” with an Admin during the Tech Pause
 - The Admin will have the final say if the round will be restored for the team affected by the issue or awarded to the team contesting the “Not Live”
 
-### 4.2.11 Technical Issues 🔴🔴
+### 4.2.11 Technical Issues
 
 In the case of an Online Match:
 
@@ -472,17 +474,17 @@ If an issue cannot be resolved within the allotted five (5) minutes, Team(s) can
 
 If, after the additional time the technical issue can not be rectified, the affected team will forfeit the map / match. In the event of a BO3 the affected team will have an additional fifteen (15) minutes to rectify the issue or use a listed substitute.
 
-Players must continue to play out any ongoing round until the pause has come into effect to allow Admins to make a decision according to the Rulebook.
+Players must continue to play out any ongoing round until the pause has come into effect to allow Admins to make a decision according to the Rulebook and 4.2.12 Round Restore.
 
 The misuse of a Technical Pause for a non-technical issue will result in the game being un-paused.
 
-### 4.2.12 **Match Interruptions** 🔴🔴
+### 4.2.12 **Round Restore**
 
-Any match interruption should be immediately reported to LD Admins by the Team and any Participant also affected.
+Pre-Damage 
+If a player experiences an unintended technical disruption — including, but not limited to, a game crash, unexpected disconnection, hardware malfunction, or server-side network drop—during Freeze Time or in the active round prior to any player on either team sustaining damage, the tournament admin may restore the round.
 
-In the case of a technical issue the round will be restarted unless the round has reached the point of incidents.
-
-The point of incident is to be deﬁned exclusively by the LD Admin, generally this will include either team receiving significant damage, a clear information advantage, or the round has less than one (1) minute remaining.
+4.3.2 Post-Damage Round Persistence
+Once damage has been dealt to any player on either team by an opponent, or a major objective event has occurred (including, but not limited to, the bomb being planted), the round is legally considered live and shall not be restarted, paused mid-round, or replayed under standard competitive rules. The round must proceed to its completion, and any required troubleshooting must take place during an official Technical Pause folloiwing the completion of the round.
 
 ## 4.3 Match Punishments
 
