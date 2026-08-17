@@ -483,8 +483,8 @@ The misuse of a Technical Pause for a non-technical issue will result in the gam
 Pre-Damage 
 If a player experiences an unintended technical disruption — including, but not limited to, a game crash, unexpected disconnection, hardware malfunction, or server-side network drop—during Freeze Time or in the active round prior to any player on either team sustaining damage, the tournament admin may restore the round.
 
-4.3.2 Post-Damage Round Persistence
-Once damage has been dealt to any player on either team by an opponent, or a major objective event has occurred (including, but not limited to, the bomb being planted), the round is legally considered live and shall not be restarted, paused mid-round, or replayed under standard competitive rules. The round must proceed to its completion, and any required troubleshooting must take place during an official Technical Pause folloiwing the completion of the round.
+Post-Damage
+Once damage has been dealt to any player on either team by an opponent, or a major objective event has occurred (including, but not limited to, the bomb being planted), the round is legally considered live and shall not be restarted, paused mid-round, or replayed under standard competitive rules. The round must proceed to its completion, and any required troubleshooting must take place during an official Technical Pause following the completion of the round.
 
 ## 4.3 Match Punishments
 
