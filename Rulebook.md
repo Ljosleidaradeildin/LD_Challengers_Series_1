@@ -452,7 +452,7 @@ Intentionally impacting the flow of the game, such as players leaving and re-joi
 
 If there is any advantage a team would like clarified please reach out to the admin team.
 
-### 4.2.10 Round Not Live / “NL” 🔴🔴
+### 4.2.10 Round Not Live / “NL”
 
 If a player or team is having technical issues at the start of a round they can call “Not Live” or “NL” via the in-game all chat, initiate a Technical Pause (- !tech / .tech) and call an Admin. This informs the opposition team that a player is having an issue and the current round is invalid.
 
