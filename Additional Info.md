@@ -1,10 +1,16 @@
 ### **1. Dates**
 
 - Open Qualifiers:
-    - Stage 1 - Single Elimination BO3: Sept 8, 2026
-    - Stage 2 - GSL Groups BO3 Round 1: Sept 10, 2026
-    - Stage 2 - GSL Groups BO3 Round 2: Sept 15, 2026
-    - Stage 2 - GSL Groups BO3 Round 3: Sept 17, 2026
+    - Format:
+        - Number of teams: 20 spots available. First come, first served. Open signups through form.
+        - Timeframe: 8.-17. September
+        - Format: Stage 1: Single-elimination knockout BO3. Stage 2: GSL Groups BO3
+        - Seeding	Initial seeding is determined strictly by official Valve Regional Standings (VRS). Teams without a VRS rank will be seeded below all ranked teams, in the order of average FACEIT Elo.
+    - Matchdays
+        - Stage 1 - Single Elimination BO3: Sept 8, 2026
+        - Stage 2 - GSL Groups BO3 Round 1: Sept 10, 2026
+        - Stage 2 - GSL Groups BO3 Round 2: Sept 15, 2026
+        - Stage 2 - GSL Groups BO3 Round 3: Sept 17, 2026
 - Main Stage:
     - Quarter Finals 2/4: Sept 22, 2026
     - Quarter Finals 4/4: Sept 24, 2026
