@@ -209,6 +209,8 @@ Teams are expected to fulfil their tournament commitments in full once participa
 
 Forfeiting matches or withdrawing will also result in forfeiture of any Prize Money accumulated up to that point.
 
+For the LD Challengers Series 1 tournament, following the registration deadline and roster lock on September 6th - team withdrawals are no longer possible.
+
 ## 4.1 Participation in LD Challengers Series 1 - Player & Team Eligibility
 
 ### 4.1.1  Player Eligibility
