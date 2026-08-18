@@ -4,8 +4,6 @@
 1. Valve Regional Standings for Europe as of September 6th 2026
 2. FACEIT Elo
 
-[🔗 LD Challengers Series 1 | Qualifier 1](https://www.challengermode.com/s/RISI)
-
 | Seed | Team | VRS | FACEIT Elo |
 | :--- | :--- | :--- | :--- |
 | 1 | | | |
