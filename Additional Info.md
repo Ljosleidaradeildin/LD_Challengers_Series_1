@@ -1,6 +1,6 @@
 ### **1. Dates**
 
-- Open Qualifiers:
+- [Open Qualifiers](https://forms.gle/VhHV7sk5rwGGbbdVA):
     - Stage 1 - Single Elimination BO3: Sept 8, 2026
     - Stage 2 - GSL Groups BO3 Round 1: Sept 10, 2026
     - Stage 2 - GSL Groups BO3 Round 2: Sept 15, 2026
