@@ -1,30 +1,24 @@
 ### **1. Dates**
 
 - Open Qualifiers:
-    - Format:
-        - Number of teams: 20 spots available. First come, first served. Open signups through form.
-        - Timeframe: 8.-17. September
-        - Format: Stage 1: Single-elimination knockout BO3. Stage 2: GSL Groups BO3
-        - Seeding	Initial seeding is determined strictly by official Valve Regional Standings (VRS). Teams without a VRS rank will be seeded below all ranked teams, in the order of average FACEIT Elo.
-    - Matchdays
-        - Stage 1 - Single Elimination BO3: Sept 8, 2026
-        - Stage 2 - GSL Groups BO3 Round 1: Sept 10, 2026
-        - Stage 2 - GSL Groups BO3 Round 2: Sept 15, 2026
-        - Stage 2 - GSL Groups BO3 Round 3: Sept 17, 2026
+    - Stage 1 - Single Elimination BO3: Sept 8, 2026
+    - Stage 2 - GSL Groups BO3 Round 1: Sept 10, 2026
+    - Stage 2 - GSL Groups BO3 Round 2: Sept 15, 2026
+    - Stage 2 - GSL Groups BO3 Round 3: Sept 17, 2026
 - Main Stage:
     - Quarter Finals 2/4: Sept 22, 2026
     - Quarter Finals 4/4: Sept 24, 2026
     - Semi Finals 1: Sept 29, 2026
-    - Semi Finals 1: Oct 1, 2026
+    - Semi Finals 2: Oct 1, 2026
     - Third Place Decider: Oct 2, 2026
-- LAN Finals:
+- LAN Finals
     - Grand Final: Oct 3, 2026
 
 ### **2. Format**
 
 - Open Qualifiers:
-    - 20 spots available. First come, first served open signups through form.
-    - Stage 1: Single-elimination BO3 knockout. Stage 2: GSL Groups
+    - 20 spots available. First come, first served. [Open signups through form](https://forms.gle/VhHV7sk5rwGGbbdVA).
+    - Stage 1: Single-elimination BO3 knockout. Stage 2: GSL Groups BO3
     - 2 teams from each GSL group advance to the Main Stage. 8 Teams in total.
 - Main Stage:
     - Single Elimination Bracket
@@ -33,7 +27,7 @@
     - Winners of Semi Finals Qualify to LAN Finals
     - Losers of Semi Finals play Third Place Decider
 - LAN Final:
-    - Single Best of 5
+    - Single Best of 5 match
 
 ### **3. Teams**
 
@@ -58,7 +52,7 @@ If a team requires a stand-in for a qualifier, the stand-in must be registered a
     - Average FACEIT ELO
 - Location:
     - Online: Open Qualifiers, Main Stage.
-    - LAN: BO5 Grand Finals (Reykjavik, Iceland)
+    - LAN: Reykjavik, Iceland
 
 ### **7. LAN Final Info**
 
