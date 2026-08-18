@@ -18,6 +18,7 @@
 
 - Open Qualifiers:
     - 20 spots available. First come, first served. [Open signups through form](https://forms.gle/VhHV7sk5rwGGbbdVA).
+        - The list of registered teams in available [here](https://docs.google.com/spreadsheets/d/1S23D6px94FTjtUYUVbpliWTUXvpes1JEUU17aqxPNH0/edit?usp=sharing).
     - Stage 1: Single-elimination BO3 knockout. Stage 2: GSL Groups BO3
     - 2 teams from each GSL group advance to the Main Stage. 8 Teams in total.
 - Main Stage:
