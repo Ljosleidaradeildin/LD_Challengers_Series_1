@@ -162,7 +162,7 @@ Teams are responsible for actively monitoring Discord for match updates, schedul
 
 LD reserves the right to remove any participant from the Discord server for any breach of tournament rules.
 
-Please use the link below to join: [Ljósleiðaradeildin Discord](https://discord.gg/VsAqyYybrJ)
+Please use the link below to join: [Ljósleiðaradeildin Discord](https://discord.gg/BpjM76EEgs)
 
 ## 3.9 Prize Money
 
