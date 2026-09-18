@@ -1,7 +1,7 @@
 ## LD Challengers Series 1 Open Qualifier Seeding
 
 ### Teams are seeded using the following:
-1. Valve Regional Standings for Europe as of September 6th 2026
+1. Valve Regional Standings for Europe as of September 7th 2026
 2. FACEIT Elo
 
 | Seed | Team | VRS | FACEIT Elo |
