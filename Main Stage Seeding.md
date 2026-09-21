@@ -11,7 +11,7 @@
 | 2 |CoolBears  | |Winners Match Winner |2887 |
 | 3 |Þór | |Winners Match Winner |2673 |
 | 4 |Aurora | |Winners Match Winner |2485 |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
+| 5 |LCN | |Decider Match Winner |2484 |
+| 6 |MagDonald | |Decider Match Winner |2480 |
+| 7 |Þór Þorlákshöfn | |Decider Match Winner |2365 |
+| 8 |Mean Machine | |Decider Match Winner |2322 |
